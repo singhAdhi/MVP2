@@ -1,0 +1,545 @@
+@font-face {
+  font-family: SourceExtraLight;
+  src: url(./assets/fonts/source-sans-pro/SourceSansPro-ExtraLight.otf);
+}
+@font-face {
+  font-family: SourceLight;
+  src: url(./assets/fonts/source-sans-pro/SourceSansPro-Light.otf);
+}
+@font-face {
+  font-family: SourceRegular;
+  src: url(./assets/fonts/source-sans-pro/SourceSansPro-Regular.otf);
+}
+@font-face {
+  font-family: SourceSemiBold;
+  src: url(./assets/fonts/source-sans-pro/SourceSansPro-Semibold.otf);
+}
+@font-face {
+  font-family: SourceBold;
+  src: url(./assets/fonts/source-sans-pro/SourceSansPro-Bold.otf);
+}
+@font-face {
+  font-family: SourceBlack;
+  src: url(./assets/fonts/source-sans-pro/SourceSansPro-Black.otf);
+}
+
+:root {
+  /*change font-family all over the website*/
+  --font-extralight: SourceExtraLight;
+  --font-light: SourceLight;
+  --font-extrathin: "";
+  --font-thin: "";
+  --font-regular: SourceRegular;
+  --font-medium: "";
+  --font-semibold: SourceSemiBold;
+  --font-bold: SourceBold;
+  --font-extrabold: "";
+  --font-black: SourceBlack;
+
+  /* theme colours */
+  --lightblue: #bddfff;
+  --darkblue: #16426b;
+  --blue: #035bff;
+  --black: #000000;
+
+  /* X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X  */
+  /* below classNames are defined as components all over the website */
+
+  /* text */
+  --text-lightblue: #bddfff;
+  --text-darkblue: #35598c;
+  --text-blue: var(--blue);
+  --text-black: var(--black);
+  --text-light: #5979a7;
+
+  /* bg colours */
+  --body-bg: #f5f4fb;
+  --section-bg: #d8e2f1;
+  --bg-lightblue: var(--lightblue);
+  --bg-darkblue: var(--darkblue);
+  --bg-blue: var(--blue);
+  --bg-black: var(--black);
+
+  /*paragraph*/
+  --paragraph-f-family: var(--font-regular);
+  --paragraph-text-colour: #666;
+
+  /*button*/
+  --btn-primary-family: var(--font-bold);
+  --btn-primary-bg: var(--blue);
+  --btn-primary-text: #fff;
+
+  --btn-secondary-family: var(--font-bold);
+  --btn-secondary-bg: #cce6ff;
+  --btn-secondary-text: var(--darkblue);
+
+  --btn-link-family: var(--font-semibold);
+  --btn-link-bg: transparent;
+  --btn-link-text: var(--blue);
+
+  --btn-case: uppercase;
+  --btn-shadow: none;
+
+  /*swiper arrow colour*/
+  --arrow-colour: var(--lightblue);
+
+  /*swiper pagination colour*/
+  --active-colour: var(--darkblue);
+  --fade-colour: var(--lightblue);
+
+  /* navbar bg */
+  --navbar-bg: #cce6ff;
+
+  /*headings*/
+  --heading-extralight: var(--font-extralight);
+  --heading-extralight-colour: var(--black);
+  --heading-light: var(--font-light);
+  --heading-light-colour: var(--black);
+  --heading-regular: var(--font-regular);
+  --heading-regular-colour: var(--black);
+  --heading-semibold: var(--font-semibold);
+  --heading-semibold-colour: var(--black);
+  --heading-bold: var(--font-bold);
+  --heading-bold-colour: var(--black);
+  --heading-black: var(--font-black);
+  --heading-black-colour: var(--black);
+
+  /* border radius */
+  --radius: 1rem;
+}
+
+/* 
+  bootstrap 5 heading logic makes responsive headings
+  
+  h1 - font-size: calc(1.375rem + 1.5vw);
+  h2 - font-size: calc(1.325rem + .9vw);
+  h3 - font-size: calc(1.3rem + .6vw);
+  h4 - font-size: calc(1.275rem + .3vw);
+  h5 - font-size: 1.25rem;
+  h6 - font-size: 1rem;
+  
+  media queries - 1200px and above
+  h1 - font-size: 2.5rem;
+  h2 - font-size: 2rem;
+  h3 - font-size: 1.75rem;
+  h4 - font-size: 1.5rem;
+  h5 - font-size: 1.25rem;
+  h6 - font-size: 1rem;  
+  */
+
+/* GLOBAL CSS START HERE */
+body {
+  font-family: var(--font-regular);
+  background-color: var(--body-bg);
+  color: var(--black);
+}
+
+/*=========[ sticky footer ]=========*/
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.dvMain {
+  flex: 1;
+}
+
+.dvFooter {
+  flex-shrink: 0;
+}
+/*=========[ sticky footer ]=========*/
+
+/*{{ overwrite bootstrap }}*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+ul,
+ol,
+p {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+/*{{ overwrite bootstrap }}*/
+
+/*{{ border-radius }}*/
+.b-radius {
+  border-radius: var(--radius);
+}
+/*{{ border-radius }}*/
+
+/*{{ bg colours }}*/
+.body-bg {
+  background-color: var(--body-bg);
+}
+.section-bg {
+  background-color: var(--section-bg);
+}
+.bg-lightblue {
+  background-color: var(--bg-lightblue);
+}
+.bg-darkblue {
+  background-color: var(--bg-darkblue);
+}
+.bg-blue {
+  background-color: var(--bg-blue);
+}
+.bg-black {
+  background-color: var(--bg-black);
+}
+.bg-blur {
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.3
+  ); /* Fallback for browsers that don't support backdrop-filter */
+  backdrop-filter: blur(10px); /* Adjust the blur amount as needed */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
+}
+.bg-blur-black {
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.3
+  ); /* Fallback for browsers that don't support backdrop-filter */
+  backdrop-filter: blur(10px); /* Adjust the blur amount as needed */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
+}
+
+/*{{ bg colours }}*/
+
+/*{{ additional bootstrap headings  h7 h8 h9 }}*/
+.h7 {
+  font-size: 0.875rem;
+}
+.h8 {
+  font-size: 0.75rem;
+}
+.h9 {
+  font-size: 0.625rem;
+}
+/*{{ additional bootstrap headings  h7 h8 h9 }}*/
+
+/*{{ horizontal scroll }}*/
+.scroll-hoz {
+  overflow-x: auto;
+}
+/*{{ horizontal scroll }}*/
+
+/*{{ vertical scroll }}*/
+.scroll-ver {
+  overflow-x: hidden;
+}
+/*{{ vertical scroll }}*/
+
+/*{{ equal columns }}*/
+.equal-col {
+  margin-left: -7.5px;
+  margin-right: -7.5px;
+}
+/* .equal-col [class*="col-"] {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+} */
+.equal-col > [class*="col-"] {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+/*{{ equal columns }}*/
+
+/*{{ image fix }}*/
+.img-container {
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.img-container img {
+  width: 100% !important;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+/*{{ image fix }}*/
+
+/*{{ headings }}*/
+.heading-extralight {
+  font-family: var(--heading-extralight);
+  color: var(--heading-extralight-colour);
+}
+.heading-light {
+  font-family: var(--heading-light);
+  color: var(--heading-light-colour);
+}
+.heading-regular {
+  font-family: var(--heading-regular);
+  color: var(--heading-regular-colour);
+}
+.heading-semibold {
+  font-family: var(--heading-semibold);
+  color: var(--heading-semibold-colour);
+}
+.heading-bold {
+  font-family: var(--heading-bold);
+  color: var(--heading-bold-colour);
+}
+.heading-black {
+  font-family: var(--heading-black);
+  color: var(--heading-black-colour);
+}
+/*{{ headings }}*/
+
+/*{{ text colour }}*/
+.text-lightblue {
+  color: var(--text-lightblue);
+}
+.text-darkblue {
+  color: var(--text-darkblue);
+}
+.text-blue {
+  color: var(--text-blue);
+}
+.text-black {
+  color: var(--text-black) !important;
+}
+.text-light {
+  color: var(--text-light) !important;
+}
+/*{{ text colour }}*/
+
+/*{{ paragraph }}*/
+p {
+  font-family: var(--paragraph-f-family);
+  color: var(--paragraph-text-colour);
+}
+/*{{ paragraph }}*/
+
+/*{{ all circle icons inside class .dvSlider }}*/
+.dvSlider .fa-circle {
+  font-size: 0.25rem;
+}
+/*{{ all circle icons inside class .dvSlider }}*/
+
+/*{{ buttons }}*/
+.btn {
+  border-radius: var(--radius);
+}
+.btn-check:checked + .btn,
+.btn.active,
+.btn.show,
+.btn:first-child:active,
+:not(.btn-check) + .btn:active {
+  color: var(--black);
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.btn-primary {
+  font-family: var(--btn-primary-family);
+  background-color: var(--btn-primary-bg);
+  border-color: var(--btn-primary-bg);
+  color: var(--btn-primary-text);
+  text-transform: var(--btn-case);
+}
+.btn-primary:hover,
+.btn-primary:focus-visible,
+.btn-primary-check:checked + .btn-primary,
+.btn-primary.active,
+.btn-primary.show,
+.btn-primary:first-child:active,
+:not(.btn-check) + .btn-primary:active {
+  font-family: var(--btn-primary-family);
+  background-color: var(--btn-primary-bg);
+  border-color: var(--btn-primary-bg);
+  color: var(--btn-primary-text);
+  text-transform: var(--btn-case);
+  box-shadow: var(--btn-shadow);
+}
+
+.btn-secondary {
+  font-family: var(--btn-secondary-family);
+  background-color: var(--btn-secondary-bg);
+  border-color: var(--btn-secondary-bg);
+  color: var(--btn-secondary-text);
+  text-transform: var(--btn-case);
+}
+.btn-secondary:hover,
+.btn-secondary:focus-visible,
+.btn-secondary-check:checked + .btn-secondary,
+.btn-secondary.active,
+.btn-secondary.show,
+.btn-secondary:first-child:active,
+:not(.btn-check) + .btn-secondary:active {
+  font-family: var(--btn-secondary-family);
+  background-color: var(--btn-secondary-bg);
+  border-color: var(--btn-secondary-bg);
+  color: var(--btn-secondary-text);
+  text-transform: var(--btn-case);
+  box-shadow: var(--btn-shadow);
+}
+
+.btn-link {
+  font-family: var(--btn-link-family);
+  background-color: var(--btn-link-bg);
+  border-color: var(--btn-link-bg);
+  color: var(--btn-link-text);
+  /* text-transform: var(--btn-case); */
+  text-decoration: none;
+}
+.btn-link:hover,
+.btn-link:focus-visible,
+.btn-link-check:checked + .btn-link,
+.btn-link.active,
+.btn-link.show,
+.btn-link:first-child:active,
+:not(.btn-check) + .btn-link:active {
+  font-family: var(--btn-link-family);
+  background-color: var(--btn-link-bg);
+  border-color: var(--btn-link-bg);
+  color: var(--btn-link-text);
+  /* text-transform: var(--btn-case); */
+  box-shadow: var(--btn-shadow);
+}
+/*{{ buttons }}*/
+
+/*=========[ swiper arrow buttons ]=========*/
+/* swiper's disabled button */
+.swiper-button-disabled {
+  opacity: 0.3;
+}
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--lightblue);
+}
+/*=========[ swiper arrow buttons ]=========*/
+
+/*=========[ 
+    swiper buttons - 
+    use "customizeButtons" class when you want to shift buttons or customize
+  ]=========*/
+.customizeButtons .swiper-button-prev,
+.customizeButtons .swiper-button-next {
+  position: static !important;
+  /* flex: 0 0 41.66; */
+  width: auto !important;
+  margin: 0 !important;
+  height: auto !important;
+}
+/*=========[ 
+    swiper buttons - 
+    use "customizeButtons" class when you want to shift buttons or customize
+  ]=========*/
+
+/*=========[ swiper pagination ]=========*/
+.swiper-pagination-bullet-active {
+  background-color: var(--active-colour) !important;
+  border: 1px solid var(--active-colour);
+}
+.swiper-pagination-bullet {
+  opacity: 1;
+  background-color: var(--fade-colour);
+}
+/*=========[ swiper pagination ]=========*/
+
+/*=========[ swiper thumbslider ]=========*/
+.dvThumbSwiperSlider .swiper {
+  width: 100%;
+  height: 100%;
+}
+.dvThumbSwiperSlider .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+}
+.dvThumbSwiperSlider .swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.dvThumbSwiperSlider .swiper {
+  width: 100%;
+  /*height: 300px;*/
+  margin-left: auto;
+  margin-right: auto;
+}
+.dvThumbSwiperSlider .mySwiper2 {
+  /*height: 50%;*/
+  height: auto;
+  width: 100%;
+}
+.dvThumbSwiperSlider .mySwiper {
+  /*height: 12%;*/
+  height: auto;
+  box-sizing: border-box;
+  padding: 10px 0;
+}
+.dvThumbSwiperSlider .mySwiper .swiper-slide {
+  width: 25%;
+  height: 100%;
+  opacity: 0.4;
+}
+.dvThumbSwiperSlider .mySwiper .swiper-slide-thumb-active {
+  opacity: 1;
+}
+
+/* adjust arrows right & left */
+.dvThumbSwiperSlider .swiper-button-prev,
+.dvThumbSwiperSlider .swiper-rtl .swiper-button-next {
+  left: var(--swiper-navigation-sides-offset, 10px);
+  right: auto;
+}
+.dvThumbSwiperSlider .swiper-button-next,
+.dvThumbSwiperSlider .swiper-rtl .swiper-button-prev {
+  right: var(--swiper-navigation-sides-offset, 10px);
+  left: auto;
+}
+
+/* adjust arrows width size */
+.dvThumbSwiperSlider .swiper-button-prev img,
+.dvThumbSwiperSlider .swiper-button-next img {
+  width: 25px;
+}
+/*=========[ swiper thumbslider ]=========*/
+
+/*{{ media queries }}*/
+@media (min-width: 576px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 992px) {
+}
+@media (min-width: 1200px) {
+}
+@media (min-width: 1400px) {
+}
+/*{{ media queries }}*/
+
+/* GLOBAL CSS ENDS HERE */

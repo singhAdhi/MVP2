@@ -1,0 +1,40 @@
+.bg-Subtract {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background: url(/src/assets/images/icons/flight/Subtract.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 100px;
+    margin-top: 50px
+}
+
+.mid {
+    flex-grow: 1;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    bottom: 50px;
+}
+
+.top,
+.lower {
+    flex-grow: 1;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 40px;
+}
+
+.text-ans {
+    color: var(--Text-Dark-2, #35598C);
+    font-family: "Source Sans Pro";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px;
+    text-transform: capitalize;
+}

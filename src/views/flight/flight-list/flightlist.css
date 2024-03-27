@@ -1,0 +1,199 @@
+/*=========[ FLIGHTLIST PAGE ]=========*/
+
+.dvFlightList .dvSeeDetails .arrowBtn {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+}
+
+/* .bg-white {
+  border-radius: 24px;
+  background: #FFF !important;
+} */
+
+.flightlist-heading {
+  color: var(--Text-Dark-3, #5979a7);
+  font-family: "Source Sans Pro";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 16px;
+  text-transform: capitalize;
+}
+
+.heading-flight {
+  color: var(--Text-Dark-1, #000);
+  font-family: "Source Sans Pro";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.heading-flight span {
+  color: var(--Text-Dark-1, #000);
+  font-family: "Source Sans Pro";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 16px;
+  text-transform: capitalize;
+}
+
+.dvFlightInfo {
+  border-radius: 24px;
+  background: #fff;
+}
+
+.flightDetail-text {
+  color: var(--Text-Dark-2, #35598c);
+  text-align: center;
+  font-family: "Source Sans Pro";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+}
+
+.points-text {
+  color: var(--Primary-Main, #035bff);
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.country,
+.stop {
+  color: var(--Text-Dark-3, #5979a7);
+  font-family: "Source Sans Pro";
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 16px;
+  text-transform: capitalize;
+}
+
+.total-time {
+  color: var(--Text-Dark-1, #000);
+  font-family: "Source Sans Pro";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 16px;
+}
+
+.card-table {
+  border-bottom: 2px solid #d8e2f1;
+}
+
+.CarrierName {
+  color: var(--Text-Dark-2, #35598c);
+  text-align: center;
+  font-family: "Source Sans Pro";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px;
+}
+
+.detail-text {
+  color: #000;
+  font-family: "Source Sans Pro";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  text-transform: capitalize;
+}
+
+.filter-img {
+  width: 30px;
+}
+
+.offcanvas-bottom {
+  height: 70vh !important;
+}
+
+/* .dvFlightList .dvSeeDetails .dvDeparture .bg-light {
+    background-color: var(--bg-section);
+  } */
+/*=========[ FLIGHTLIST PAGE ]=========*/
+
+/*=========[ FLIGHTPASSENGER PAGE ]=========*/
+.dvFlightPassenger .bg {
+  background-color: var(--primary-colour);
+}
+
+.dvFlightPassenger .bg-lightgray {
+  background-color: var(--bg-section);
+}
+
+.dvFlightPassenger .rounded {
+  border-radius: 5px 5px 0 0 !important;
+}
+
+/*=========[ FLIGHTPASSENGER PAGE ]=========*/
+
+/*=========[ FLIGHTSEARCH PAGE ]=========*/
+
+.dvFlightSearch .bg-lightgray {
+  background-color: var(--bg-section);
+}
+
+.dvFlightSearch input[type="radio"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  padding: 3px;
+  background-clip: content-box;
+  border: 1px solid #bbbbbb;
+  background-color: #e7e6e7;
+  border-radius: 50%;
+  outline: none;
+}
+
+.dvFlightSearch input[type="radio"]:checked {
+  background-color: #213c69;
+  border: 1px solid #000;
+  outline: none;
+}
+
+.dvProductList .product-text {
+  min-height: 70px;
+}
+
+/*=========[ FLIGHTSEARCH PAGE ]=========*/
+
+/*=========[ MEDIA QUERIES ]=========*/
+@media (min-width: 576px) {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+  .dvFlightList .dvFlightInfo .dvInfo .border-top-bottom-lg-0 {
+    border-top: 0 !important;
+    border-bottom: 0 !important;
+  }
+
+  .dvFlightList .dvFlightInfo .dvInfo .border-right-lg {
+    border-right: 1px solid #dee2e6 !important;
+  }
+
+  .dvFlightList .dvFlightInfo .dvInfo .border-bottom-lg {
+    border-bottom: 1px solid #dee2e6 !important;
+  }
+}
+
+@media (min-width: 1200px) {
+}
+
+/*=========[ MEDIA QUERIES ]=========*/

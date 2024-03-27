@@ -1,0 +1,690 @@
+{
+  "GetStoreDetails_DATA": {
+    "Id": "MEGADEMO",
+    "Name": "MegaDemo",
+    "Description": null,
+    "Url": null,
+    "SecureUrl": null,
+    "Host": null,
+    "StoreState": 0,
+    "TimeZone": null,
+    "Country": null,
+    "Region": null,
+    "Status": "Open",
+    "DefaultLanguage": {
+      "IsInvariant": false,
+      "CultureName": "en-US",
+      "NativeName": "English (United States)",
+      "ThreeLeterLanguageName": "eng",
+      "TwoLetterLanguageName": "en",
+      "TwoLetterRegionName": "US",
+      "ThreeLetterRegionName": "USA"
+    },
+    "Languages": [
+      {
+        "IsInvariant": false,
+        "CultureName": "en-US",
+        "NativeName": "English (United States)",
+        "ThreeLeterLanguageName": "eng",
+        "TwoLetterLanguageName": "en",
+        "TwoLetterRegionName": "US",
+        "ThreeLetterRegionName": "USA"
+      }
+    ],
+    "DefaultCurrencyCode": "MEG",
+    "CurrenciesCodes": [
+      "SGD",
+      "SAR",
+      "AED",
+      "QAR",
+      "USD",
+      "CAD",
+      "IDR",
+      "KES",
+      "CNY",
+      "PHP",
+      "MEG",
+      "NGN",
+      "OMR",
+      "BHD",
+      "MVR",
+      "VND",
+      "MYR",
+      "LKR",
+      "KWD",
+      "THB",
+      "HKD",
+      "AUD",
+      "INR"
+    ],
+    "AvailableCurrencies": [
+      {
+        "Code": "AED",
+        "CultureName": "en-US",
+        "Symbol": "د.إ",
+        "EnglishName": "United Arab Emirates Dirham",
+        "ExchangeRate": 1,
+        "CustomFormatting": "0,0.000 د.إ"
+      },
+      {
+        "Code": "AUD",
+        "CultureName": "en-US",
+        "Symbol": "$",
+        "EnglishName": "AUD",
+        "ExchangeRate": 2.4755,
+        "CustomFormatting": null
+      },
+      {
+        "Code": "BHD",
+        "CultureName": "en-US",
+        "Symbol": ".د.ب, BD",
+        "EnglishName": "Bahraini Dinar",
+        "ExchangeRate": 9.74,
+        "CustomFormatting": "0.0.000"
+      },
+      {
+        "Code": "CAD",
+        "CultureName": "en-US",
+        "Symbol": "$",
+        "EnglishName": "CAD",
+        "ExchangeRate": 2.7417,
+        "CustomFormatting": null
+      },
+      {
+        "Code": "CNY",
+        "CultureName": "en-US",
+        "Symbol": "¥",
+        "EnglishName": "China",
+        "ExchangeRate": 0.52,
+        "CustomFormatting": null
+      },
+      {
+        "Code": "HKD",
+        "CultureName": "en-US",
+        "Symbol": "$",
+        "EnglishName": "HKD",
+        "ExchangeRate": 0.4678,
+        "CustomFormatting": null
+      },
+      {
+        "Code": "IDR",
+        "CultureName": "en-US",
+        "Symbol": "Rp",
+        "EnglishName": "Indonesian Rupiah",
+        "ExchangeRate": 0.0003,
+        "CustomFormatting": "0,0.00 Rp"
+      },
+      {
+        "Code": "INR",
+        "CultureName": "en-US",
+        "Symbol": "₹",
+        "EnglishName": "INR",
+        "ExchangeRate": 0.044,
+        "CustomFormatting": null
+      },
+      {
+        "Code": "KES",
+        "CultureName": "en-US",
+        "Symbol": "KSh",
+        "EnglishName": "Kenyan Shilling",
+        "ExchangeRate": 0.026,
+        "CustomFormatting": null
+      },
+      {
+        "Code": "KWD",
+        "CultureName": "en-US",
+        "Symbol": "KD, د.ك",
+        "EnglishName": "Kuwaiti Dinar",
+        "ExchangeRate": 11.9,
+        "CustomFormatting": "0.0.000"
+      },
+      {
+        "Code": "LKR",
+        "CultureName": "en-US",
+        "Symbol": "රු.",
+        "EnglishName": "Srilanka Rupee",
+        "ExchangeRate": 0.01,
+        "CustomFormatting": null
+      },
+      {
+        "Code": "MEG",
+        "CultureName": "en-US",
+        "Symbol": "Giift Points",
+        "EnglishName": "MEGADEMO",
+        "ExchangeRate": 3.67,
+        "CustomFormatting": "0 Giift Points"
+      },
+      {
+        "Code": "MVR",
+        "CultureName": "en-US",
+        "Symbol": "ރ.",
+        "EnglishName": "Maldivian Rufiyaa",
+        "ExchangeRate": 0.24,
+        "CustomFormatting": "0.00"
+      },
+      {
+        "Code": "MYR",
+        "CultureName": "en-US",
+        "Symbol": "RM",
+        "EnglishName": "Malaysian Ringgit",
+        "ExchangeRate": 0.8,
+        "CustomFormatting": "0.00"
+      },
+      {
+        "Code": "NGN",
+        "CultureName": "en-US",
+        "Symbol": "₦",
+        "EnglishName": "Nigerian Naira",
+        "ExchangeRate": 0.0047,
+        "CustomFormatting": "0,0.00 ₦"
+      },
+      {
+        "Code": "OMR",
+        "CultureName": "en-US",
+        "Symbol": "ر.ع.",
+        "EnglishName": "Omani Rial",
+        "ExchangeRate": 9.55,
+        "CustomFormatting": "0.0.000"
+      },
+      {
+        "Code": "PHP",
+        "CultureName": "en-US",
+        "Symbol": "₱",
+        "EnglishName": "Philippines",
+        "ExchangeRate": 0.066,
+        "CustomFormatting": null
+      },
+      {
+        "Code": "QAR",
+        "CultureName": "en-US",
+        "Symbol": "QAR",
+        "EnglishName": "Qatari Rial",
+        "ExchangeRate": 1,
+        "CustomFormatting": "QAR 0,0"
+      },
+      {
+        "Code": "SAR",
+        "CultureName": "en-US",
+        "Symbol": "SR, ر.س, ﷼‎",
+        "EnglishName": "Saudi Riyal",
+        "ExchangeRate": 0.99,
+        "CustomFormatting": "0.0.000"
+      },
+      {
+        "Code": "SGD",
+        "CultureName": "en-US",
+        "Symbol": "S$",
+        "EnglishName": "Singapore Dollar",
+        "ExchangeRate": 2.69,
+        "CustomFormatting": "0.0"
+      },
+      {
+        "Code": "THB",
+        "CultureName": "en-US",
+        "Symbol": "฿",
+        "EnglishName": "Thai Baht",
+        "ExchangeRate": 0.11,
+        "CustomFormatting": null
+      },
+      {
+        "Code": "USD",
+        "CultureName": "en-US",
+        "Symbol": "$",
+        "EnglishName": "US Dollars",
+        "ExchangeRate": 3.7,
+        "CustomFormatting": "0.0.000"
+      },
+      {
+        "Code": "VND",
+        "CultureName": "en-US",
+        "Symbol": "₫",
+        "EnglishName": "Vietnamese Dong",
+        "ExchangeRate": 0.00015,
+        "CustomFormatting": "0.0"
+      }
+    ],
+    "Catalog": "6d49200c-969a-4fd9-8d37-8c961491df10",
+    "Email": null,
+    "AdminEmail": null,
+    "ThemeName": null,
+    "SeoInfos": [],
+    "TrustedGroups": [],
+    "DefaultFulfillmentCenterId": null,
+    "AvailFulfillmentCenterIds": [],
+    "QuotesEnabled": false,
+    "SubscriptionEnabled": false,
+    "TaxCalculationEnabled": true,
+    "AnonymousUsersAllowed": true,
+    "IsSpa": false,
+    "FixedTaxRate": 0,
+    "DynamicProperties": [
+      {
+        "Id": null,
+        "Name": "PriceLable",
+        "DisplayName": null,
+        "DisplayNames": [],
+        "IsArray": false,
+        "IsDictionary": false,
+        "IsRequired": false,
+        "ValueType": "Undefined",
+        "Values": [],
+        "DictionaryValues": null,
+        "DictionaryItems": []
+      },
+      {
+        "Id": null,
+        "Name": "Current Offers",
+        "DisplayName": null,
+        "DisplayNames": [],
+        "IsArray": false,
+        "IsDictionary": false,
+        "IsRequired": false,
+        "ValueType": "Undefined",
+        "Values": [
+          {
+            "Value": "FEATURED_SHOP_MEGADEMO|Featured Offers",
+            "Language": {
+              "IsInvariant": true,
+              "CultureName": "",
+              "NativeName": "Invariant Language (Invariant Country)",
+              "ThreeLeterLanguageName": "ivl",
+              "TwoLetterLanguageName": "iv",
+              "TwoLetterRegionName": null,
+              "ThreeLetterRegionName": null
+            },
+            "ValueType": "ShortText"
+          },
+          {
+            "Value": "TOP_SHOP_MEGADEMO|Top Offers",
+            "Language": {
+              "IsInvariant": true,
+              "CultureName": "",
+              "NativeName": "Invariant Language (Invariant Country)",
+              "ThreeLeterLanguageName": "ivl",
+              "TwoLetterLanguageName": "iv",
+              "TwoLetterRegionName": null,
+              "ThreeLetterRegionName": null
+            },
+            "ValueType": "ShortText"
+          }
+        ],
+        "DictionaryValues": null,
+        "DictionaryItems": []
+      },
+      {
+        "Id": null,
+        "Name": "FilteredBrowsing",
+        "DisplayName": null,
+        "DisplayNames": [],
+        "IsArray": false,
+        "IsDictionary": false,
+        "IsRequired": false,
+        "ValueType": "Undefined",
+        "Values": [
+          {
+            "Value": "{\r\n  \"Attributes\": [\r\n    {\r\n      \"Key\": \"Country\",\r\n      \"FacetSize\": 25,\r\n      \"Order\": 0,\r\n      \"Values\": null\r\n    },\r\n    {\r\n      \"Key\": \"Brand\",\r\n      \"FacetSize\": 25,\r\n      \"Order\": 1,\r\n      \"Values\": null\r\n    },\r\n    {\r\n      \"Key\": \"Category\",\r\n      \"FacetSize\": 25,\r\n      \"Order\": 2,\r\n      \"Values\": null\r\n    },\r\n    {\r\n      \"Key\": \"SubCategory\",\r\n      \"FacetSize\": 25,\r\n      \"Order\": 3,\r\n      \"Values\": null\r\n    }\r\n  ],\r\n  \"AttributeRanges\": [],\r\n  \"Prices\": []\r\n}",
+            "Language": {
+              "IsInvariant": true,
+              "CultureName": "",
+              "NativeName": "Invariant Language (Invariant Country)",
+              "ThreeLeterLanguageName": "ivl",
+              "TwoLetterLanguageName": "iv",
+              "TwoLetterRegionName": null,
+              "ThreeLetterRegionName": null
+            },
+            "ValueType": "LongText"
+          }
+        ],
+        "DictionaryValues": null,
+        "DictionaryItems": []
+      }
+    ],
+    "Settings": [
+      {
+        "Name": "Stores.TaxCalculationEnabled",
+        "Value": null,
+        "ValueType": "Boolean",
+        "AllowedValues": null,
+        "DefaultValue": "true",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Stores.AllowAnonymousUsers",
+        "Value": null,
+        "ValueType": "Boolean",
+        "AllowedValues": null,
+        "DefaultValue": "true",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Stores.IsSpa",
+        "Value": null,
+        "ValueType": "Boolean",
+        "AllowedValues": null,
+        "DefaultValue": "false",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Stores.EmailVerificationEnabled",
+        "Value": null,
+        "ValueType": "Boolean",
+        "AllowedValues": null,
+        "DefaultValue": "false",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Stores.EnablePriceRoundingForTotalsCalculation",
+        "Value": null,
+        "ValueType": "Boolean",
+        "AllowedValues": null,
+        "DefaultValue": "true",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Stores.SeoLinksType",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": ["None", "Short", "Collapsed", "Long"],
+        "DefaultValue": "Collapsed",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Customer.OrganizationDefaultStatus",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": null,
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Customer.ContactDefaultStatus",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": null,
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Order.CustomerOrderNewNumberTemplate",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": null,
+        "DefaultValue": "CO{0:yyMMdd}-{1:D5}",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Order.PaymentInNewNumberTemplate",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": null,
+        "DefaultValue": "PI{0:yyMMdd}-{1:D5}",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Order.ShipmentNewNumberTemplate",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": null,
+        "DefaultValue": "SH{0:yyMMdd}-{1:D5}",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Subscription.EnableSubscriptions",
+        "Value": null,
+        "ValueType": "Boolean",
+        "AllowedValues": null,
+        "DefaultValue": "true",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Subscription.SubscriptionNewNumberTemplate",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": null,
+        "DefaultValue": "SU{0:yyMMdd}-{1:D5}",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Sitemap.CategoryPageUpdateFrequency",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": [
+          "always",
+          "hourly",
+          "daily",
+          "weekly",
+          "monthly",
+          "yearly",
+          "never"
+        ],
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Sitemap.CategoryPagePriority",
+        "Value": null,
+        "ValueType": "Decimal",
+        "AllowedValues": null,
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Sitemap.ProductPageUpdateFrequency",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": [
+          "always",
+          "hourly",
+          "daily",
+          "weekly",
+          "monthly",
+          "yearly",
+          "never"
+        ],
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Sitemap.ProductPagePriority",
+        "Value": null,
+        "ValueType": "Decimal",
+        "AllowedValues": null,
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Sitemap.BlogPageUpdateFrequency",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": [
+          "always",
+          "hourly",
+          "daily",
+          "weekly",
+          "monthly",
+          "yearly",
+          "never"
+        ],
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Sitemap.BlogPagePriority",
+        "Value": null,
+        "ValueType": "Decimal",
+        "AllowedValues": null,
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "Return.ReturnNewNumberTemplate",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": null,
+        "DefaultValue": "RET{0:yyMMdd}-{1:D5}",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "GoogleEcommerceAnalytics.EnableTracking",
+        "Value": null,
+        "ValueType": "Boolean",
+        "AllowedValues": null,
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "GoogleEcommerceAnalytics.GoogleTagManagerId",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": null,
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "GoogleEcommerceAnalytics.GoogleAnalyticsTrackingId",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": null,
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "GoogleEcommerceAnalytics.CreateECommerceTransaction",
+        "Value": null,
+        "ValueType": "Boolean",
+        "AllowedValues": null,
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "GoogleEcommerceAnalytics.ReverseECommerceTransaction",
+        "Value": null,
+        "ValueType": "Boolean",
+        "AllowedValues": null,
+        "DefaultValue": null,
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "CustomerReviews.CustomerReviewsEnabled",
+        "Value": null,
+        "ValueType": "Boolean",
+        "AllowedValues": null,
+        "DefaultValue": "false",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "CustomerReviews.CustomerReviewsEnabledForAnonymous",
+        "Value": null,
+        "ValueType": "Boolean",
+        "AllowedValues": null,
+        "DefaultValue": "false",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "CustomerReviews.CanSubmitReviewWhenHasOrder",
+        "Value": null,
+        "ValueType": "Boolean",
+        "AllowedValues": null,
+        "DefaultValue": "true",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      },
+      {
+        "Name": "CustomerReviews.Calculation.Method",
+        "Value": null,
+        "ValueType": "ShortText",
+        "AllowedValues": ["Average", "Wilson"],
+        "DefaultValue": "Average",
+        "IsArray": false,
+        "ArrayValues": null,
+        "Title": null,
+        "Description": null
+      }
+    ],
+    "SeoLinksType": 3,
+    "PaymentMethods": null
+  }
+}

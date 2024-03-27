@@ -1,0 +1,9 @@
+.dvLadder .rounded-circle {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  font-size: 0.875rem;
+}
+.dvLadder .progress {
+  height: 0.5rem;
+}

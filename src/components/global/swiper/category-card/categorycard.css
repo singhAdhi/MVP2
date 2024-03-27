@@ -1,0 +1,8 @@
+.dvCategoryCard .img-fluid {
+  width: 20px;
+}
+.dvCategoryCard .d-flex {
+  height: 100%;
+  min-height: 100px;
+  text-align: center;
+}

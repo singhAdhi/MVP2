@@ -1,0 +1,85 @@
+.points {
+    border-radius: 24px;
+    background: #FFF;
+}
+
+.pts-avl {
+    color: var(--Primary-Main, #035BFF);
+    font-family: "Source Sans Pro";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 16px;
+    text-transform: capitalize;
+}
+
+.actual-pts {
+    color: var(--Primary-Main, #035BFF);
+    text-align: right;
+    font-family: "Source Sans Pro";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px;
+    text-transform: capitalize;
+}
+
+.pts-avl-grey {
+    color: var(--Text-Dark-3, #5979A7);
+    font-family: "Source Sans Pro";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 16px;
+    text-transform: capitalize;
+}
+
+.pts-avl-grey {
+    color: var(--Text-Dark-3, #5979A7);
+    font-family: "Source Sans Pro";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 16px;
+    text-transform: capitalize;
+}
+
+.actual-pts-grey {
+    color: var(--Text-Dark-2, #35598C);
+    text-align: right;
+    font-family: "Source Sans Pro";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px;
+    text-transform: capitalize;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+}
+
+.percent {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    color: #000;
+    text-align: center;
+    font-family: "Source Sans Pro";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 16px;
+    text-transform: capitalize;
+}
+
+.text-payment {
+    color: #000;
+    font-family: "Source Sans Pro";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}

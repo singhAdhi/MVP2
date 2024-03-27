@@ -1,0 +1,67 @@
+.dvHeader {
+  border-radius: 0 0 var(--radius) 0;
+}
+.dvHeader .dvToggleBtn {
+  margin: 0px 0 0 -13px;
+  padding: 0.875rem;
+  background-color: rgba(165, 185, 215, 0.25);
+  border-color: transparent;
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+
+.dvHeader .dvToggleBtn.btn-primary:hover,
+.dvHeader .dvToggleBtn.btn-primary:focus-visible,
+.dvHeader .dvToggleBtn.btn-primary-check:checked + .dvHeader .dvToggleBtn.btn-primary,
+.dvHeader .dvToggleBtn.btn-primary.active,
+.dvHeader .dvToggleBtn.btn-primary.show,
+.dvHeader .dvToggleBtn.btn-primary:first-child:active,
+:not(.btn-check) + .dvHeader .dvToggleBtn.btn-primary:active {
+  background-color: rgba(165, 185, 215, 0.25);
+  border-color: transparent;
+}
+
+.dvHeader .dvLogo,
+.dvHeader .dvSearchBtn {
+  margin-top: 0;
+}
+.dvHeader .dvSearchBtn svg {
+  color: var(--darkblue);
+}
+/* slidemenu offcanvas */
+.dvHeader .dvSlideMenu .offcanvas-header .btn-close {
+  margin-top: 10px !important;
+  margin-right: -45px !important;
+  background: url("") var(--blue);
+  opacity: 1;
+}
+.dvHeader .dvSlideMenu.offcanvas {
+  background-color: var(--navbar-bg);
+  border-radius: 0 0 7rem 0;
+}
+.dvHeader .dvSlideMenu.offcanvas .icon {
+  background-color: #c3ddf6;
+  border-radius: var(--radius);
+}
+.dvHeader .dvSlideMenu.offcanvas .nav-link {
+  color: #5979a7;
+  padding: 0.35rem 0;
+}
+.dvHeader .dvSlideMenu.offcanvas .nav-link:hover {
+  color: #000;
+}
+.dvHeader .dvSlideMenu.offcanvas .nav-link.active {
+  color: #000;
+}
+.dvHeader .offcanvas-backdrop {
+  height: 100%;
+}
+.dvHeader .dvSlideMenu + .offcanvas-backdrop.show {
+  opacity: 1;
+}
+
+@media (min-width: 992px) {
+  .dvHeader .dvLogo,
+  .dvHeader .dvSearchBtn {
+    margin-top: 0;
+  }
+}

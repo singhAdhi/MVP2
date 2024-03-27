@@ -1,0 +1,71 @@
+.cloud-bg {
+    background-image: url(../../../assets/images/icons/flight/airplane-bg.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    position: relative;
+    animation: plane 2s forwards ease-in-out;
+    /* Use ease-in-out for a smooth start and end */
+}
+
+@keyframes plane {
+    0% {
+        bottom: -600px;
+    }
+
+    100% {
+        bottom: 0;
+    }
+}
+
+.bg-border {
+    background: var(--Gradient---Main, linear-gradient(180deg, #000 0%, #3533CD 100.06%));
+    width: 4px;
+    height: 0;
+    position: absolute;
+    left: 49.4%;
+    z-index: -1;
+    animation: line 2s forwards ease-in-out;
+}
+
+@keyframes line {
+    0% {
+        height: 0;
+        top: 0;
+    }
+
+    100% {
+        height: 100vh;
+        top: 0;
+    }
+}
+
+
+.cloud::before {
+    content: "";
+    background-image: url(../../../assets/images/icons/flight/cloud.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    bottom: 0;
+    z-index: 2;
+}
+
+.cloud::after {
+    content: "";
+    background-image: url(../../../assets/images/icons/flight/cloudTop.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}

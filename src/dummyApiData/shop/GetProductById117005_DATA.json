@@ -1,0 +1,2757 @@
+{
+    "Id": "117005",
+    "ManufacturerPartNumber": null,
+    "Gtin": null,
+    "Sku": "JPL6973",
+    "Name": "Anker D2410V11 Nebula Apollo B2B Seriallized - Black",
+    "CatalogId": "4412ef9f-777a-4afd-9438-f0aa1be254d3",
+    "CatalogName": null,
+    "CategoryId": "Projectors",
+    "Outline": "Electronics & Tools/Projectors",
+    "OutlineCatalogIds": [
+        "4412ef9f-777a-4afd-9438-f0aa1be254d3",
+        "9f4e9171-142e-4d05-961c-14cf977daa4d"
+    ],
+    "OuterId": "JPL6973",
+    "IndexingDate": null,
+    "TitularItemId": null,
+    "IsBuyable": true,
+    "IsActive": true,
+    "IsInStock": false,
+    "TrackInventory": false,
+    "MaxQuantity": 3,
+    "MinQuantity": 1,
+    "ProductType": "Physical",
+    "WeightUnit": "",
+    "Weight": 0.0,
+    "PackageType": null,
+    "MeasureUnit": "",
+    "Height": 0.0,
+    "Length": 0.0,
+    "Width": 0.0,
+    "EnableReview": false,
+    "MaxNumberOfDownload": 0.0,
+    "DownloadExpiration": "0001-01-01T00:00:00",
+    "DownloadType": null,
+    "HasUserAgreement": false,
+    "ShippingType": null,
+    "VendorId": "afcae7e3-d423-4612-a1a0-ecba4bf9ac2f",
+    "VariationProperties": [],
+    "Assets": [],
+    "Variations": [],
+    "Associations": [],
+    "Description": "",
+    "Descriptions": [],
+    "Price": {
+        "PricelistId": null,
+        "Currency": {
+            "Code": "AED",
+            "CultureName": "en-US",
+            "Symbol": "د.إ",
+            "EnglishName": "United Arab Emirates Dirham",
+            "ExchangeRate": 1.0,
+            "CustomFormatting": "0,0.000 د.إ"
+        },
+        "ProductId": "117005",
+        "DiscountAmount": {
+            "InternalAmount": 0.0,
+            "Amount": 0.0,
+            "TruncatedAmount": 0.0,
+            "FormattedAmount": "00.000 دإ",
+            "FormattedAmountWithoutPoint": "00.000 دإ",
+            "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+            "Currency": {
+                "Code": "AED",
+                "CultureName": "en-US",
+                "Symbol": "د.إ",
+                "EnglishName": "United Arab Emirates Dirham",
+                "ExchangeRate": 1.0,
+                "CustomFormatting": "0,0.000 د.إ"
+            },
+            "DecimalDigits": 2
+        },
+        "DiscountAmountWithTax": {
+            "InternalAmount": 0.0,
+            "Amount": 0.0,
+            "TruncatedAmount": 0.0,
+            "FormattedAmount": "00.000 دإ",
+            "FormattedAmountWithoutPoint": "00.000 دإ",
+            "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+            "Currency": {
+                "Code": "AED",
+                "CultureName": "en-US",
+                "Symbol": "د.إ",
+                "EnglishName": "United Arab Emirates Dirham",
+                "ExchangeRate": 1.0,
+                "CustomFormatting": "0,0.000 د.إ"
+            },
+            "DecimalDigits": 2
+        },
+        "DiscountPercent": 0.0,
+        "ListPrice": {
+            "InternalAmount": 1542.0,
+            "Amount": 1542.0,
+            "TruncatedAmount": 1542.0,
+            "FormattedAmount": "1,542.000 دإ",
+            "FormattedAmountWithoutPoint": "1,542.000 دإ",
+            "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+            "Currency": {
+                "Code": "AED",
+                "CultureName": "en-US",
+                "Symbol": "د.إ",
+                "EnglishName": "United Arab Emirates Dirham",
+                "ExchangeRate": 1.0,
+                "CustomFormatting": "0,0.000 د.إ"
+            },
+            "DecimalDigits": 2
+        },
+        "ListPriceWithTax": {
+            "InternalAmount": 1542.0,
+            "Amount": 1542.0,
+            "TruncatedAmount": 1542.0,
+            "FormattedAmount": "1,542.000 دإ",
+            "FormattedAmountWithoutPoint": "1,542.000 دإ",
+            "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+            "Currency": {
+                "Code": "AED",
+                "CultureName": "en-US",
+                "Symbol": "د.إ",
+                "EnglishName": "United Arab Emirates Dirham",
+                "ExchangeRate": 1.0,
+                "CustomFormatting": "0,0.000 د.إ"
+            },
+            "DecimalDigits": 2
+        },
+        "SalePrice": {
+            "InternalAmount": 1542.0,
+            "Amount": 1542.0,
+            "TruncatedAmount": 1542.0,
+            "FormattedAmount": "1,542.000 دإ",
+            "FormattedAmountWithoutPoint": "1,542.000 دإ",
+            "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+            "Currency": {
+                "Code": "AED",
+                "CultureName": "en-US",
+                "Symbol": "د.إ",
+                "EnglishName": "United Arab Emirates Dirham",
+                "ExchangeRate": 1.0,
+                "CustomFormatting": "0,0.000 د.إ"
+            },
+            "DecimalDigits": 2
+        },
+        "SalePriceWithTax": {
+            "InternalAmount": 1542.0,
+            "Amount": 1542.0,
+            "TruncatedAmount": 1542.0,
+            "FormattedAmount": "1,542.000 دإ",
+            "FormattedAmountWithoutPoint": "1,542.000 دإ",
+            "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+            "Currency": {
+                "Code": "AED",
+                "CultureName": "en-US",
+                "Symbol": "د.إ",
+                "EnglishName": "United Arab Emirates Dirham",
+                "ExchangeRate": 1.0,
+                "CustomFormatting": "0,0.000 د.إ"
+            },
+            "DecimalDigits": 2
+        },
+        "ActualPrice": {
+            "InternalAmount": 1542.0,
+            "Amount": 1542.0,
+            "TruncatedAmount": 1542.0,
+            "FormattedAmount": "1,542.000 دإ",
+            "FormattedAmountWithoutPoint": "1,542.000 دإ",
+            "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+            "Currency": {
+                "Code": "AED",
+                "CultureName": "en-US",
+                "Symbol": "د.إ",
+                "EnglishName": "United Arab Emirates Dirham",
+                "ExchangeRate": 1.0,
+                "CustomFormatting": "0,0.000 د.إ"
+            },
+            "DecimalDigits": 2
+        },
+        "ActualPriceWithTax": {
+            "InternalAmount": 1542.0,
+            "Amount": 1542.0,
+            "TruncatedAmount": 1542.0,
+            "FormattedAmount": "1,542.000 دإ",
+            "FormattedAmountWithoutPoint": "1,542.000 دإ",
+            "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+            "Currency": {
+                "Code": "AED",
+                "CultureName": "en-US",
+                "Symbol": "د.إ",
+                "EnglishName": "United Arab Emirates Dirham",
+                "ExchangeRate": 1.0,
+                "CustomFormatting": "0,0.000 د.إ"
+            },
+            "DecimalDigits": 2
+        },
+        "Discounts": [],
+        "MinQuantity": null,
+        "TierPrices": [
+            {
+                "Price": {
+                    "InternalAmount": 1542.0,
+                    "Amount": 1542.0,
+                    "TruncatedAmount": 1542.0,
+                    "FormattedAmount": "1,542.000 دإ",
+                    "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                    "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                    "Currency": {
+                        "Code": "AED",
+                        "CultureName": "en-US",
+                        "Symbol": "د.إ",
+                        "EnglishName": "United Arab Emirates Dirham",
+                        "ExchangeRate": 1.0,
+                        "CustomFormatting": "0,0.000 د.إ"
+                    },
+                    "DecimalDigits": 2
+                },
+                "PriceWithTax": {
+                    "InternalAmount": 1542.0,
+                    "Amount": 1542.0,
+                    "TruncatedAmount": 1542.0,
+                    "FormattedAmount": "1,542.000 دإ",
+                    "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                    "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                    "Currency": {
+                        "Code": "AED",
+                        "CultureName": "en-US",
+                        "Symbol": "د.إ",
+                        "EnglishName": "United Arab Emirates Dirham",
+                        "ExchangeRate": 1.0,
+                        "CustomFormatting": "0,0.000 د.إ"
+                    },
+                    "DecimalDigits": 2
+                },
+                "DiscountAmount": {
+                    "InternalAmount": 0.0,
+                    "Amount": 0.0,
+                    "TruncatedAmount": 0.0,
+                    "FormattedAmount": "00.000 دإ",
+                    "FormattedAmountWithoutPoint": "00.000 دإ",
+                    "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+                    "Currency": {
+                        "Code": "AED",
+                        "CultureName": "en-US",
+                        "Symbol": "د.إ",
+                        "EnglishName": "United Arab Emirates Dirham",
+                        "ExchangeRate": 1.0,
+                        "CustomFormatting": "0,0.000 د.إ"
+                    },
+                    "DecimalDigits": 2
+                },
+                "DiscountAmountWithTax": {
+                    "InternalAmount": 0.0,
+                    "Amount": 0.0,
+                    "TruncatedAmount": 0.0,
+                    "FormattedAmount": "00.000 دإ",
+                    "FormattedAmountWithoutPoint": "00.000 دإ",
+                    "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+                    "Currency": {
+                        "Code": "AED",
+                        "CultureName": "en-US",
+                        "Symbol": "د.إ",
+                        "EnglishName": "United Arab Emirates Dirham",
+                        "ExchangeRate": 1.0,
+                        "CustomFormatting": "0,0.000 د.إ"
+                    },
+                    "DecimalDigits": 2
+                },
+                "ActualPrice": {
+                    "InternalAmount": 1542.0,
+                    "Amount": 1542.0,
+                    "TruncatedAmount": 1542.0,
+                    "FormattedAmount": "1,542.000 دإ",
+                    "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                    "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                    "Currency": {
+                        "Code": "AED",
+                        "CultureName": "en-US",
+                        "Symbol": "د.إ",
+                        "EnglishName": "United Arab Emirates Dirham",
+                        "ExchangeRate": 1.0,
+                        "CustomFormatting": "0,0.000 د.إ"
+                    },
+                    "DecimalDigits": 2
+                },
+                "ActualPriceWithTax": {
+                    "InternalAmount": 1542.0,
+                    "Amount": 1542.0,
+                    "TruncatedAmount": 1542.0,
+                    "FormattedAmount": "1,542.000 دإ",
+                    "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                    "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                    "Currency": {
+                        "Code": "AED",
+                        "CultureName": "en-US",
+                        "Symbol": "د.إ",
+                        "EnglishName": "United Arab Emirates Dirham",
+                        "ExchangeRate": 1.0,
+                        "CustomFormatting": "0,0.000 د.إ"
+                    },
+                    "DecimalDigits": 2
+                },
+                "Quantity": 1,
+                "Currency": {
+                    "Code": "AED",
+                    "CultureName": "en-US",
+                    "Symbol": "د.إ",
+                    "EnglishName": "United Arab Emirates Dirham",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "0,0.000 د.إ"
+                },
+                "TaxTotal": {
+                    "InternalAmount": 0.0,
+                    "Amount": 0.0,
+                    "TruncatedAmount": 0.0,
+                    "FormattedAmount": "00.000 دإ",
+                    "FormattedAmountWithoutPoint": "00.000 دإ",
+                    "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+                    "Currency": {
+                        "Code": "AED",
+                        "CultureName": "en-US",
+                        "Symbol": "د.إ",
+                        "EnglishName": "United Arab Emirates Dirham",
+                        "ExchangeRate": 1.0,
+                        "CustomFormatting": "0,0.000 د.إ"
+                    },
+                    "DecimalDigits": 2
+                },
+                "TaxPercentRate": 0.0,
+                "TaxType": null,
+                "TaxDetails": []
+            }
+        ],
+        "TaxTotal": {
+            "InternalAmount": 0.0,
+            "Amount": 0.0,
+            "TruncatedAmount": 0.0,
+            "FormattedAmount": "00.000 دإ",
+            "FormattedAmountWithoutPoint": "00.000 دإ",
+            "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+            "Currency": {
+                "Code": "AED",
+                "CultureName": "en-US",
+                "Symbol": "د.إ",
+                "EnglishName": "United Arab Emirates Dirham",
+                "ExchangeRate": 1.0,
+                "CustomFormatting": "0,0.000 د.إ"
+            },
+            "DecimalDigits": 2
+        },
+        "TaxPercentRate": 0.0,
+        "TaxType": null,
+        "TaxDetails": null
+    },
+    "Prices": [
+        {
+            "PricelistId": "3ab9f8bd-25b6-42e3-90e1-196c5e1ecba8",
+            "Currency": {
+                "Code": "QAR",
+                "CultureName": "en-US",
+                "Symbol": "QAR",
+                "EnglishName": "Qatari Rial",
+                "ExchangeRate": 1.0,
+                "CustomFormatting": "QAR 0,0"
+            },
+            "ProductId": "117005",
+            "DiscountAmount": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "QAR 00",
+                "FormattedAmountWithoutPoint": "QAR 00",
+                "FormattedAmountWithoutPointAndCurrency": "QAR 00",
+                "Currency": {
+                    "Code": "QAR",
+                    "CultureName": "en-US",
+                    "Symbol": "QAR",
+                    "EnglishName": "Qatari Rial",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "QAR 0,0"
+                },
+                "DecimalDigits": 2
+            },
+            "DiscountAmountWithTax": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "QAR 00",
+                "FormattedAmountWithoutPoint": "QAR 00",
+                "FormattedAmountWithoutPointAndCurrency": "QAR 00",
+                "Currency": {
+                    "Code": "QAR",
+                    "CultureName": "en-US",
+                    "Symbol": "QAR",
+                    "EnglishName": "Qatari Rial",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "QAR 0,0"
+                },
+                "DecimalDigits": 2
+            },
+            "DiscountPercent": 0.0,
+            "ListPrice": {
+                "InternalAmount": 1542.0,
+                "Amount": 1542.0,
+                "TruncatedAmount": 1542.0,
+                "FormattedAmount": "QAR 1,542",
+                "FormattedAmountWithoutPoint": "QAR 1,542",
+                "FormattedAmountWithoutPointAndCurrency": "QAR 1,542",
+                "Currency": {
+                    "Code": "QAR",
+                    "CultureName": "en-US",
+                    "Symbol": "QAR",
+                    "EnglishName": "Qatari Rial",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "QAR 0,0"
+                },
+                "DecimalDigits": 2
+            },
+            "ListPriceWithTax": {
+                "InternalAmount": 1542.0,
+                "Amount": 1542.0,
+                "TruncatedAmount": 1542.0,
+                "FormattedAmount": "QAR 1,542",
+                "FormattedAmountWithoutPoint": "QAR 1,542",
+                "FormattedAmountWithoutPointAndCurrency": "QAR 1,542",
+                "Currency": {
+                    "Code": "QAR",
+                    "CultureName": "en-US",
+                    "Symbol": "QAR",
+                    "EnglishName": "Qatari Rial",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "QAR 0,0"
+                },
+                "DecimalDigits": 2
+            },
+            "SalePrice": {
+                "InternalAmount": 1542.0,
+                "Amount": 1542.0,
+                "TruncatedAmount": 1542.0,
+                "FormattedAmount": "QAR 1,542",
+                "FormattedAmountWithoutPoint": "QAR 1,542",
+                "FormattedAmountWithoutPointAndCurrency": "QAR 1,542",
+                "Currency": {
+                    "Code": "QAR",
+                    "CultureName": "en-US",
+                    "Symbol": "QAR",
+                    "EnglishName": "Qatari Rial",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "QAR 0,0"
+                },
+                "DecimalDigits": 2
+            },
+            "SalePriceWithTax": {
+                "InternalAmount": 1542.0,
+                "Amount": 1542.0,
+                "TruncatedAmount": 1542.0,
+                "FormattedAmount": "QAR 1,542",
+                "FormattedAmountWithoutPoint": "QAR 1,542",
+                "FormattedAmountWithoutPointAndCurrency": "QAR 1,542",
+                "Currency": {
+                    "Code": "QAR",
+                    "CultureName": "en-US",
+                    "Symbol": "QAR",
+                    "EnglishName": "Qatari Rial",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "QAR 0,0"
+                },
+                "DecimalDigits": 2
+            },
+            "ActualPrice": {
+                "InternalAmount": 1542.0,
+                "Amount": 1542.0,
+                "TruncatedAmount": 1542.0,
+                "FormattedAmount": "QAR 1,542",
+                "FormattedAmountWithoutPoint": "QAR 1,542",
+                "FormattedAmountWithoutPointAndCurrency": "QAR 1,542",
+                "Currency": {
+                    "Code": "QAR",
+                    "CultureName": "en-US",
+                    "Symbol": "QAR",
+                    "EnglishName": "Qatari Rial",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "QAR 0,0"
+                },
+                "DecimalDigits": 2
+            },
+            "ActualPriceWithTax": {
+                "InternalAmount": 1542.0,
+                "Amount": 1542.0,
+                "TruncatedAmount": 1542.0,
+                "FormattedAmount": "QAR 1,542",
+                "FormattedAmountWithoutPoint": "QAR 1,542",
+                "FormattedAmountWithoutPointAndCurrency": "QAR 1,542",
+                "Currency": {
+                    "Code": "QAR",
+                    "CultureName": "en-US",
+                    "Symbol": "QAR",
+                    "EnglishName": "Qatari Rial",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "QAR 0,0"
+                },
+                "DecimalDigits": 2
+            },
+            "Discounts": [],
+            "MinQuantity": 1,
+            "TierPrices": [
+                {
+                    "Price": {
+                        "InternalAmount": 1542.0,
+                        "Amount": 1542.0,
+                        "TruncatedAmount": 1542.0,
+                        "FormattedAmount": "QAR 1,542",
+                        "FormattedAmountWithoutPoint": "QAR 1,542",
+                        "FormattedAmountWithoutPointAndCurrency": "QAR 1,542",
+                        "Currency": {
+                            "Code": "QAR",
+                            "CultureName": "en-US",
+                            "Symbol": "QAR",
+                            "EnglishName": "Qatari Rial",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "QAR 0,0"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "PriceWithTax": {
+                        "InternalAmount": 1542.0,
+                        "Amount": 1542.0,
+                        "TruncatedAmount": 1542.0,
+                        "FormattedAmount": "QAR 1,542",
+                        "FormattedAmountWithoutPoint": "QAR 1,542",
+                        "FormattedAmountWithoutPointAndCurrency": "QAR 1,542",
+                        "Currency": {
+                            "Code": "QAR",
+                            "CultureName": "en-US",
+                            "Symbol": "QAR",
+                            "EnglishName": "Qatari Rial",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "QAR 0,0"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "DiscountAmount": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "QAR 00",
+                        "FormattedAmountWithoutPoint": "QAR 00",
+                        "FormattedAmountWithoutPointAndCurrency": "QAR 00",
+                        "Currency": {
+                            "Code": "QAR",
+                            "CultureName": "en-US",
+                            "Symbol": "QAR",
+                            "EnglishName": "Qatari Rial",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "QAR 0,0"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "DiscountAmountWithTax": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "QAR 00",
+                        "FormattedAmountWithoutPoint": "QAR 00",
+                        "FormattedAmountWithoutPointAndCurrency": "QAR 00",
+                        "Currency": {
+                            "Code": "QAR",
+                            "CultureName": "en-US",
+                            "Symbol": "QAR",
+                            "EnglishName": "Qatari Rial",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "QAR 0,0"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "ActualPrice": {
+                        "InternalAmount": 1542.0,
+                        "Amount": 1542.0,
+                        "TruncatedAmount": 1542.0,
+                        "FormattedAmount": "QAR 1,542",
+                        "FormattedAmountWithoutPoint": "QAR 1,542",
+                        "FormattedAmountWithoutPointAndCurrency": "QAR 1,542",
+                        "Currency": {
+                            "Code": "QAR",
+                            "CultureName": "en-US",
+                            "Symbol": "QAR",
+                            "EnglishName": "Qatari Rial",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "QAR 0,0"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "ActualPriceWithTax": {
+                        "InternalAmount": 1542.0,
+                        "Amount": 1542.0,
+                        "TruncatedAmount": 1542.0,
+                        "FormattedAmount": "QAR 1,542",
+                        "FormattedAmountWithoutPoint": "QAR 1,542",
+                        "FormattedAmountWithoutPointAndCurrency": "QAR 1,542",
+                        "Currency": {
+                            "Code": "QAR",
+                            "CultureName": "en-US",
+                            "Symbol": "QAR",
+                            "EnglishName": "Qatari Rial",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "QAR 0,0"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "Quantity": 1,
+                    "Currency": {
+                        "Code": "QAR",
+                        "CultureName": "en-US",
+                        "Symbol": "QAR",
+                        "EnglishName": "Qatari Rial",
+                        "ExchangeRate": 1.0,
+                        "CustomFormatting": "QAR 0,0"
+                    },
+                    "TaxTotal": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "QAR 00",
+                        "FormattedAmountWithoutPoint": "QAR 00",
+                        "FormattedAmountWithoutPointAndCurrency": "QAR 00",
+                        "Currency": {
+                            "Code": "QAR",
+                            "CultureName": "en-US",
+                            "Symbol": "QAR",
+                            "EnglishName": "Qatari Rial",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "QAR 0,0"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "TaxPercentRate": 0.0,
+                    "TaxType": null,
+                    "TaxDetails": []
+                }
+            ],
+            "TaxTotal": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "QAR 00",
+                "FormattedAmountWithoutPoint": "QAR 00",
+                "FormattedAmountWithoutPointAndCurrency": "QAR 00",
+                "Currency": {
+                    "Code": "QAR",
+                    "CultureName": "en-US",
+                    "Symbol": "QAR",
+                    "EnglishName": "Qatari Rial",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "QAR 0,0"
+                },
+                "DecimalDigits": 2
+            },
+            "TaxPercentRate": 0.0,
+            "TaxType": null,
+            "TaxDetails": null
+        },
+        {
+            "PricelistId": null,
+            "Currency": {
+                "Code": "AED",
+                "CultureName": "en-US",
+                "Symbol": "د.إ",
+                "EnglishName": "United Arab Emirates Dirham",
+                "ExchangeRate": 1.0,
+                "CustomFormatting": "0,0.000 د.إ"
+            },
+            "ProductId": "117005",
+            "DiscountAmount": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "00.000 دإ",
+                "FormattedAmountWithoutPoint": "00.000 دإ",
+                "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+                "Currency": {
+                    "Code": "AED",
+                    "CultureName": "en-US",
+                    "Symbol": "د.إ",
+                    "EnglishName": "United Arab Emirates Dirham",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "0,0.000 د.إ"
+                },
+                "DecimalDigits": 2
+            },
+            "DiscountAmountWithTax": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "00.000 دإ",
+                "FormattedAmountWithoutPoint": "00.000 دإ",
+                "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+                "Currency": {
+                    "Code": "AED",
+                    "CultureName": "en-US",
+                    "Symbol": "د.إ",
+                    "EnglishName": "United Arab Emirates Dirham",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "0,0.000 د.إ"
+                },
+                "DecimalDigits": 2
+            },
+            "DiscountPercent": 0.0,
+            "ListPrice": {
+                "InternalAmount": 1542.0,
+                "Amount": 1542.0,
+                "TruncatedAmount": 1542.0,
+                "FormattedAmount": "1,542.000 دإ",
+                "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                "Currency": {
+                    "Code": "AED",
+                    "CultureName": "en-US",
+                    "Symbol": "د.إ",
+                    "EnglishName": "United Arab Emirates Dirham",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "0,0.000 د.إ"
+                },
+                "DecimalDigits": 2
+            },
+            "ListPriceWithTax": {
+                "InternalAmount": 1542.0,
+                "Amount": 1542.0,
+                "TruncatedAmount": 1542.0,
+                "FormattedAmount": "1,542.000 دإ",
+                "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                "Currency": {
+                    "Code": "AED",
+                    "CultureName": "en-US",
+                    "Symbol": "د.إ",
+                    "EnglishName": "United Arab Emirates Dirham",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "0,0.000 د.إ"
+                },
+                "DecimalDigits": 2
+            },
+            "SalePrice": {
+                "InternalAmount": 1542.0,
+                "Amount": 1542.0,
+                "TruncatedAmount": 1542.0,
+                "FormattedAmount": "1,542.000 دإ",
+                "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                "Currency": {
+                    "Code": "AED",
+                    "CultureName": "en-US",
+                    "Symbol": "د.إ",
+                    "EnglishName": "United Arab Emirates Dirham",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "0,0.000 د.إ"
+                },
+                "DecimalDigits": 2
+            },
+            "SalePriceWithTax": {
+                "InternalAmount": 1542.0,
+                "Amount": 1542.0,
+                "TruncatedAmount": 1542.0,
+                "FormattedAmount": "1,542.000 دإ",
+                "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                "Currency": {
+                    "Code": "AED",
+                    "CultureName": "en-US",
+                    "Symbol": "د.إ",
+                    "EnglishName": "United Arab Emirates Dirham",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "0,0.000 د.إ"
+                },
+                "DecimalDigits": 2
+            },
+            "ActualPrice": {
+                "InternalAmount": 1542.0,
+                "Amount": 1542.0,
+                "TruncatedAmount": 1542.0,
+                "FormattedAmount": "1,542.000 دإ",
+                "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                "Currency": {
+                    "Code": "AED",
+                    "CultureName": "en-US",
+                    "Symbol": "د.إ",
+                    "EnglishName": "United Arab Emirates Dirham",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "0,0.000 د.إ"
+                },
+                "DecimalDigits": 2
+            },
+            "ActualPriceWithTax": {
+                "InternalAmount": 1542.0,
+                "Amount": 1542.0,
+                "TruncatedAmount": 1542.0,
+                "FormattedAmount": "1,542.000 دإ",
+                "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                "Currency": {
+                    "Code": "AED",
+                    "CultureName": "en-US",
+                    "Symbol": "د.إ",
+                    "EnglishName": "United Arab Emirates Dirham",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "0,0.000 د.إ"
+                },
+                "DecimalDigits": 2
+            },
+            "Discounts": [],
+            "MinQuantity": null,
+            "TierPrices": [
+                {
+                    "Price": {
+                        "InternalAmount": 1542.0,
+                        "Amount": 1542.0,
+                        "TruncatedAmount": 1542.0,
+                        "FormattedAmount": "1,542.000 دإ",
+                        "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                        "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                        "Currency": {
+                            "Code": "AED",
+                            "CultureName": "en-US",
+                            "Symbol": "د.إ",
+                            "EnglishName": "United Arab Emirates Dirham",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "0,0.000 د.إ"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "PriceWithTax": {
+                        "InternalAmount": 1542.0,
+                        "Amount": 1542.0,
+                        "TruncatedAmount": 1542.0,
+                        "FormattedAmount": "1,542.000 دإ",
+                        "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                        "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                        "Currency": {
+                            "Code": "AED",
+                            "CultureName": "en-US",
+                            "Symbol": "د.إ",
+                            "EnglishName": "United Arab Emirates Dirham",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "0,0.000 د.إ"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "DiscountAmount": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "00.000 دإ",
+                        "FormattedAmountWithoutPoint": "00.000 دإ",
+                        "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+                        "Currency": {
+                            "Code": "AED",
+                            "CultureName": "en-US",
+                            "Symbol": "د.إ",
+                            "EnglishName": "United Arab Emirates Dirham",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "0,0.000 د.إ"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "DiscountAmountWithTax": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "00.000 دإ",
+                        "FormattedAmountWithoutPoint": "00.000 دإ",
+                        "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+                        "Currency": {
+                            "Code": "AED",
+                            "CultureName": "en-US",
+                            "Symbol": "د.إ",
+                            "EnglishName": "United Arab Emirates Dirham",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "0,0.000 د.إ"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "ActualPrice": {
+                        "InternalAmount": 1542.0,
+                        "Amount": 1542.0,
+                        "TruncatedAmount": 1542.0,
+                        "FormattedAmount": "1,542.000 دإ",
+                        "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                        "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                        "Currency": {
+                            "Code": "AED",
+                            "CultureName": "en-US",
+                            "Symbol": "د.إ",
+                            "EnglishName": "United Arab Emirates Dirham",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "0,0.000 د.إ"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "ActualPriceWithTax": {
+                        "InternalAmount": 1542.0,
+                        "Amount": 1542.0,
+                        "TruncatedAmount": 1542.0,
+                        "FormattedAmount": "1,542.000 دإ",
+                        "FormattedAmountWithoutPoint": "1,542.000 دإ",
+                        "FormattedAmountWithoutPointAndCurrency": "1,542.000 دإ",
+                        "Currency": {
+                            "Code": "AED",
+                            "CultureName": "en-US",
+                            "Symbol": "د.إ",
+                            "EnglishName": "United Arab Emirates Dirham",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "0,0.000 د.إ"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "Quantity": 1,
+                    "Currency": {
+                        "Code": "AED",
+                        "CultureName": "en-US",
+                        "Symbol": "د.إ",
+                        "EnglishName": "United Arab Emirates Dirham",
+                        "ExchangeRate": 1.0,
+                        "CustomFormatting": "0,0.000 د.إ"
+                    },
+                    "TaxTotal": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "00.000 دإ",
+                        "FormattedAmountWithoutPoint": "00.000 دإ",
+                        "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+                        "Currency": {
+                            "Code": "AED",
+                            "CultureName": "en-US",
+                            "Symbol": "د.إ",
+                            "EnglishName": "United Arab Emirates Dirham",
+                            "ExchangeRate": 1.0,
+                            "CustomFormatting": "0,0.000 د.إ"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "TaxPercentRate": 0.0,
+                    "TaxType": null,
+                    "TaxDetails": []
+                }
+            ],
+            "TaxTotal": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "00.000 دإ",
+                "FormattedAmountWithoutPoint": "00.000 دإ",
+                "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+                "Currency": {
+                    "Code": "AED",
+                    "CultureName": "en-US",
+                    "Symbol": "د.إ",
+                    "EnglishName": "United Arab Emirates Dirham",
+                    "ExchangeRate": 1.0,
+                    "CustomFormatting": "0,0.000 د.إ"
+                },
+                "DecimalDigits": 2
+            },
+            "TaxPercentRate": 0.0,
+            "TaxType": null,
+            "TaxDetails": null
+        },
+        {
+            "PricelistId": null,
+            "Currency": {
+                "Code": "IDR",
+                "CultureName": "en-US",
+                "Symbol": "Rp",
+                "EnglishName": "Indonesia",
+                "ExchangeRate": 0.0003,
+                "CustomFormatting": "0,0.00 Rp"
+            },
+            "ProductId": "117005",
+            "DiscountAmount": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "00.00 Rp",
+                "FormattedAmountWithoutPoint": "00.00 Rp",
+                "FormattedAmountWithoutPointAndCurrency": "00.00 Rp",
+                "Currency": {
+                    "Code": "IDR",
+                    "CultureName": "en-US",
+                    "Symbol": "Rp",
+                    "EnglishName": "Indonesia",
+                    "ExchangeRate": 0.0003,
+                    "CustomFormatting": "0,0.00 Rp"
+                },
+                "DecimalDigits": 2
+            },
+            "DiscountAmountWithTax": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "00.00 Rp",
+                "FormattedAmountWithoutPoint": "00.00 Rp",
+                "FormattedAmountWithoutPointAndCurrency": "00.00 Rp",
+                "Currency": {
+                    "Code": "IDR",
+                    "CultureName": "en-US",
+                    "Symbol": "Rp",
+                    "EnglishName": "Indonesia",
+                    "ExchangeRate": 0.0003,
+                    "CustomFormatting": "0,0.00 Rp"
+                },
+                "DecimalDigits": 2
+            },
+            "DiscountPercent": 0.0,
+            "ListPrice": {
+                "InternalAmount": 5140000.0,
+                "Amount": 5140000.0,
+                "TruncatedAmount": 5140000.0,
+                "FormattedAmount": "5,140,000.00 Rp",
+                "FormattedAmountWithoutPoint": "5,140,000.00 Rp",
+                "FormattedAmountWithoutPointAndCurrency": "5,140,000.00 Rp",
+                "Currency": {
+                    "Code": "IDR",
+                    "CultureName": "en-US",
+                    "Symbol": "Rp",
+                    "EnglishName": "Indonesia",
+                    "ExchangeRate": 0.0003,
+                    "CustomFormatting": "0,0.00 Rp"
+                },
+                "DecimalDigits": 2
+            },
+            "ListPriceWithTax": {
+                "InternalAmount": 5140000.0,
+                "Amount": 5140000.0,
+                "TruncatedAmount": 5140000.0,
+                "FormattedAmount": "5,140,000.00 Rp",
+                "FormattedAmountWithoutPoint": "5,140,000.00 Rp",
+                "FormattedAmountWithoutPointAndCurrency": "5,140,000.00 Rp",
+                "Currency": {
+                    "Code": "IDR",
+                    "CultureName": "en-US",
+                    "Symbol": "Rp",
+                    "EnglishName": "Indonesia",
+                    "ExchangeRate": 0.0003,
+                    "CustomFormatting": "0,0.00 Rp"
+                },
+                "DecimalDigits": 2
+            },
+            "SalePrice": {
+                "InternalAmount": 5140000.0,
+                "Amount": 5140000.0,
+                "TruncatedAmount": 5140000.0,
+                "FormattedAmount": "5,140,000.00 Rp",
+                "FormattedAmountWithoutPoint": "5,140,000.00 Rp",
+                "FormattedAmountWithoutPointAndCurrency": "5,140,000.00 Rp",
+                "Currency": {
+                    "Code": "IDR",
+                    "CultureName": "en-US",
+                    "Symbol": "Rp",
+                    "EnglishName": "Indonesia",
+                    "ExchangeRate": 0.0003,
+                    "CustomFormatting": "0,0.00 Rp"
+                },
+                "DecimalDigits": 2
+            },
+            "SalePriceWithTax": {
+                "InternalAmount": 5140000.0,
+                "Amount": 5140000.0,
+                "TruncatedAmount": 5140000.0,
+                "FormattedAmount": "5,140,000.00 Rp",
+                "FormattedAmountWithoutPoint": "5,140,000.00 Rp",
+                "FormattedAmountWithoutPointAndCurrency": "5,140,000.00 Rp",
+                "Currency": {
+                    "Code": "IDR",
+                    "CultureName": "en-US",
+                    "Symbol": "Rp",
+                    "EnglishName": "Indonesia",
+                    "ExchangeRate": 0.0003,
+                    "CustomFormatting": "0,0.00 Rp"
+                },
+                "DecimalDigits": 2
+            },
+            "ActualPrice": {
+                "InternalAmount": 5140000.0,
+                "Amount": 5140000.0,
+                "TruncatedAmount": 5140000.0,
+                "FormattedAmount": "5,140,000.00 Rp",
+                "FormattedAmountWithoutPoint": "5,140,000.00 Rp",
+                "FormattedAmountWithoutPointAndCurrency": "5,140,000.00 Rp",
+                "Currency": {
+                    "Code": "IDR",
+                    "CultureName": "en-US",
+                    "Symbol": "Rp",
+                    "EnglishName": "Indonesia",
+                    "ExchangeRate": 0.0003,
+                    "CustomFormatting": "0,0.00 Rp"
+                },
+                "DecimalDigits": 2
+            },
+            "ActualPriceWithTax": {
+                "InternalAmount": 5140000.0,
+                "Amount": 5140000.0,
+                "TruncatedAmount": 5140000.0,
+                "FormattedAmount": "5,140,000.00 Rp",
+                "FormattedAmountWithoutPoint": "5,140,000.00 Rp",
+                "FormattedAmountWithoutPointAndCurrency": "5,140,000.00 Rp",
+                "Currency": {
+                    "Code": "IDR",
+                    "CultureName": "en-US",
+                    "Symbol": "Rp",
+                    "EnglishName": "Indonesia",
+                    "ExchangeRate": 0.0003,
+                    "CustomFormatting": "0,0.00 Rp"
+                },
+                "DecimalDigits": 2
+            },
+            "Discounts": [],
+            "MinQuantity": null,
+            "TierPrices": [
+                {
+                    "Price": {
+                        "InternalAmount": 5140000.0,
+                        "Amount": 5140000.0,
+                        "TruncatedAmount": 5140000.0,
+                        "FormattedAmount": "5,140,000.00 Rp",
+                        "FormattedAmountWithoutPoint": "5,140,000.00 Rp",
+                        "FormattedAmountWithoutPointAndCurrency": "5,140,000.00 Rp",
+                        "Currency": {
+                            "Code": "IDR",
+                            "CultureName": "en-US",
+                            "Symbol": "Rp",
+                            "EnglishName": "Indonesia",
+                            "ExchangeRate": 0.0003,
+                            "CustomFormatting": "0,0.00 Rp"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "PriceWithTax": {
+                        "InternalAmount": 5140000.0,
+                        "Amount": 5140000.0,
+                        "TruncatedAmount": 5140000.0,
+                        "FormattedAmount": "5,140,000.00 Rp",
+                        "FormattedAmountWithoutPoint": "5,140,000.00 Rp",
+                        "FormattedAmountWithoutPointAndCurrency": "5,140,000.00 Rp",
+                        "Currency": {
+                            "Code": "IDR",
+                            "CultureName": "en-US",
+                            "Symbol": "Rp",
+                            "EnglishName": "Indonesia",
+                            "ExchangeRate": 0.0003,
+                            "CustomFormatting": "0,0.00 Rp"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "DiscountAmount": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "00.00 Rp",
+                        "FormattedAmountWithoutPoint": "00.00 Rp",
+                        "FormattedAmountWithoutPointAndCurrency": "00.00 Rp",
+                        "Currency": {
+                            "Code": "IDR",
+                            "CultureName": "en-US",
+                            "Symbol": "Rp",
+                            "EnglishName": "Indonesia",
+                            "ExchangeRate": 0.0003,
+                            "CustomFormatting": "0,0.00 Rp"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "DiscountAmountWithTax": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "00.00 Rp",
+                        "FormattedAmountWithoutPoint": "00.00 Rp",
+                        "FormattedAmountWithoutPointAndCurrency": "00.00 Rp",
+                        "Currency": {
+                            "Code": "IDR",
+                            "CultureName": "en-US",
+                            "Symbol": "Rp",
+                            "EnglishName": "Indonesia",
+                            "ExchangeRate": 0.0003,
+                            "CustomFormatting": "0,0.00 Rp"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "ActualPrice": {
+                        "InternalAmount": 5140000.0,
+                        "Amount": 5140000.0,
+                        "TruncatedAmount": 5140000.0,
+                        "FormattedAmount": "5,140,000.00 Rp",
+                        "FormattedAmountWithoutPoint": "5,140,000.00 Rp",
+                        "FormattedAmountWithoutPointAndCurrency": "5,140,000.00 Rp",
+                        "Currency": {
+                            "Code": "IDR",
+                            "CultureName": "en-US",
+                            "Symbol": "Rp",
+                            "EnglishName": "Indonesia",
+                            "ExchangeRate": 0.0003,
+                            "CustomFormatting": "0,0.00 Rp"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "ActualPriceWithTax": {
+                        "InternalAmount": 5140000.0,
+                        "Amount": 5140000.0,
+                        "TruncatedAmount": 5140000.0,
+                        "FormattedAmount": "5,140,000.00 Rp",
+                        "FormattedAmountWithoutPoint": "5,140,000.00 Rp",
+                        "FormattedAmountWithoutPointAndCurrency": "5,140,000.00 Rp",
+                        "Currency": {
+                            "Code": "IDR",
+                            "CultureName": "en-US",
+                            "Symbol": "Rp",
+                            "EnglishName": "Indonesia",
+                            "ExchangeRate": 0.0003,
+                            "CustomFormatting": "0,0.00 Rp"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "Quantity": 1,
+                    "Currency": {
+                        "Code": "IDR",
+                        "CultureName": "en-US",
+                        "Symbol": "Rp",
+                        "EnglishName": "Indonesia",
+                        "ExchangeRate": 0.0003,
+                        "CustomFormatting": "0,0.00 Rp"
+                    },
+                    "TaxTotal": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "00.00 Rp",
+                        "FormattedAmountWithoutPoint": "00.00 Rp",
+                        "FormattedAmountWithoutPointAndCurrency": "00.00 Rp",
+                        "Currency": {
+                            "Code": "IDR",
+                            "CultureName": "en-US",
+                            "Symbol": "Rp",
+                            "EnglishName": "Indonesia",
+                            "ExchangeRate": 0.0003,
+                            "CustomFormatting": "0,0.00 Rp"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "TaxPercentRate": 0.0,
+                    "TaxType": null,
+                    "TaxDetails": []
+                }
+            ],
+            "TaxTotal": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "00.00 Rp",
+                "FormattedAmountWithoutPoint": "00.00 Rp",
+                "FormattedAmountWithoutPointAndCurrency": "00.00 Rp",
+                "Currency": {
+                    "Code": "IDR",
+                    "CultureName": "en-US",
+                    "Symbol": "Rp",
+                    "EnglishName": "Indonesia",
+                    "ExchangeRate": 0.0003,
+                    "CustomFormatting": "0,0.00 Rp"
+                },
+                "DecimalDigits": 2
+            },
+            "TaxPercentRate": 0.0,
+            "TaxType": null,
+            "TaxDetails": null
+        },
+        {
+            "PricelistId": null,
+            "Currency": {
+                "Code": "MEG",
+                "CultureName": "en-US",
+                "Symbol": "Giift Points",
+                "EnglishName": "MegaDemo MVPT2",
+                "ExchangeRate": 0.036,
+                "CustomFormatting": "0 Giift Points"
+            },
+            "ProductId": "117005",
+            "DiscountAmount": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "0 Giift Points",
+                "FormattedAmountWithoutPoint": "0 Giift Points",
+                "FormattedAmountWithoutPointAndCurrency": "0 Giift Points",
+                "Currency": {
+                    "Code": "MEG",
+                    "CultureName": "en-US",
+                    "Symbol": "Giift Points",
+                    "EnglishName": "MegaDemo MVPT2",
+                    "ExchangeRate": 0.036,
+                    "CustomFormatting": "0 Giift Points"
+                },
+                "DecimalDigits": 2
+            },
+            "DiscountAmountWithTax": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "0 Giift Points",
+                "FormattedAmountWithoutPoint": "0 Giift Points",
+                "FormattedAmountWithoutPointAndCurrency": "0 Giift Points",
+                "Currency": {
+                    "Code": "MEG",
+                    "CultureName": "en-US",
+                    "Symbol": "Giift Points",
+                    "EnglishName": "MegaDemo MVPT2",
+                    "ExchangeRate": 0.036,
+                    "CustomFormatting": "0 Giift Points"
+                },
+                "DecimalDigits": 2
+            },
+            "DiscountPercent": 0.0,
+            "ListPrice": {
+                "InternalAmount": 42834.0,
+                "Amount": 42834.0,
+                "TruncatedAmount": 42834.0,
+                "FormattedAmount": "42834 Giift Points",
+                "FormattedAmountWithoutPoint": "42834 Giift Points",
+                "FormattedAmountWithoutPointAndCurrency": "42834 Giift Points",
+                "Currency": {
+                    "Code": "MEG",
+                    "CultureName": "en-US",
+                    "Symbol": "Giift Points",
+                    "EnglishName": "MegaDemo MVPT2",
+                    "ExchangeRate": 0.036,
+                    "CustomFormatting": "0 Giift Points"
+                },
+                "DecimalDigits": 2
+            },
+            "ListPriceWithTax": {
+                "InternalAmount": 42834.0,
+                "Amount": 42834.0,
+                "TruncatedAmount": 42834.0,
+                "FormattedAmount": "42834 Giift Points",
+                "FormattedAmountWithoutPoint": "42834 Giift Points",
+                "FormattedAmountWithoutPointAndCurrency": "42834 Giift Points",
+                "Currency": {
+                    "Code": "MEG",
+                    "CultureName": "en-US",
+                    "Symbol": "Giift Points",
+                    "EnglishName": "MegaDemo MVPT2",
+                    "ExchangeRate": 0.036,
+                    "CustomFormatting": "0 Giift Points"
+                },
+                "DecimalDigits": 2
+            },
+            "SalePrice": {
+                "InternalAmount": 42834.0,
+                "Amount": 42834.0,
+                "TruncatedAmount": 42834.0,
+                "FormattedAmount": "42834 Giift Points",
+                "FormattedAmountWithoutPoint": "42834 Giift Points",
+                "FormattedAmountWithoutPointAndCurrency": "42834 Giift Points",
+                "Currency": {
+                    "Code": "MEG",
+                    "CultureName": "en-US",
+                    "Symbol": "Giift Points",
+                    "EnglishName": "MegaDemo MVPT2",
+                    "ExchangeRate": 0.036,
+                    "CustomFormatting": "0 Giift Points"
+                },
+                "DecimalDigits": 2
+            },
+            "SalePriceWithTax": {
+                "InternalAmount": 42834.0,
+                "Amount": 42834.0,
+                "TruncatedAmount": 42834.0,
+                "FormattedAmount": "42834 Giift Points",
+                "FormattedAmountWithoutPoint": "42834 Giift Points",
+                "FormattedAmountWithoutPointAndCurrency": "42834 Giift Points",
+                "Currency": {
+                    "Code": "MEG",
+                    "CultureName": "en-US",
+                    "Symbol": "Giift Points",
+                    "EnglishName": "MegaDemo MVPT2",
+                    "ExchangeRate": 0.036,
+                    "CustomFormatting": "0 Giift Points"
+                },
+                "DecimalDigits": 2
+            },
+            "ActualPrice": {
+                "InternalAmount": 42834.0,
+                "Amount": 42834.0,
+                "TruncatedAmount": 42834.0,
+                "FormattedAmount": "42834 Giift Points",
+                "FormattedAmountWithoutPoint": "42834 Giift Points",
+                "FormattedAmountWithoutPointAndCurrency": "42834 Giift Points",
+                "Currency": {
+                    "Code": "MEG",
+                    "CultureName": "en-US",
+                    "Symbol": "Giift Points",
+                    "EnglishName": "MegaDemo MVPT2",
+                    "ExchangeRate": 0.036,
+                    "CustomFormatting": "0 Giift Points"
+                },
+                "DecimalDigits": 2
+            },
+            "ActualPriceWithTax": {
+                "InternalAmount": 42834.0,
+                "Amount": 42834.0,
+                "TruncatedAmount": 42834.0,
+                "FormattedAmount": "42834 Giift Points",
+                "FormattedAmountWithoutPoint": "42834 Giift Points",
+                "FormattedAmountWithoutPointAndCurrency": "42834 Giift Points",
+                "Currency": {
+                    "Code": "MEG",
+                    "CultureName": "en-US",
+                    "Symbol": "Giift Points",
+                    "EnglishName": "MegaDemo MVPT2",
+                    "ExchangeRate": 0.036,
+                    "CustomFormatting": "0 Giift Points"
+                },
+                "DecimalDigits": 2
+            },
+            "Discounts": [],
+            "MinQuantity": null,
+            "TierPrices": [
+                {
+                    "Price": {
+                        "InternalAmount": 42834.0,
+                        "Amount": 42834.0,
+                        "TruncatedAmount": 42834.0,
+                        "FormattedAmount": "42834 Giift Points",
+                        "FormattedAmountWithoutPoint": "42834 Giift Points",
+                        "FormattedAmountWithoutPointAndCurrency": "42834 Giift Points",
+                        "Currency": {
+                            "Code": "MEG",
+                            "CultureName": "en-US",
+                            "Symbol": "Giift Points",
+                            "EnglishName": "MegaDemo MVPT2",
+                            "ExchangeRate": 0.036,
+                            "CustomFormatting": "0 Giift Points"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "PriceWithTax": {
+                        "InternalAmount": 42834.0,
+                        "Amount": 42834.0,
+                        "TruncatedAmount": 42834.0,
+                        "FormattedAmount": "42834 Giift Points",
+                        "FormattedAmountWithoutPoint": "42834 Giift Points",
+                        "FormattedAmountWithoutPointAndCurrency": "42834 Giift Points",
+                        "Currency": {
+                            "Code": "MEG",
+                            "CultureName": "en-US",
+                            "Symbol": "Giift Points",
+                            "EnglishName": "MegaDemo MVPT2",
+                            "ExchangeRate": 0.036,
+                            "CustomFormatting": "0 Giift Points"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "DiscountAmount": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "0 Giift Points",
+                        "FormattedAmountWithoutPoint": "0 Giift Points",
+                        "FormattedAmountWithoutPointAndCurrency": "0 Giift Points",
+                        "Currency": {
+                            "Code": "MEG",
+                            "CultureName": "en-US",
+                            "Symbol": "Giift Points",
+                            "EnglishName": "MegaDemo MVPT2",
+                            "ExchangeRate": 0.036,
+                            "CustomFormatting": "0 Giift Points"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "DiscountAmountWithTax": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "0 Giift Points",
+                        "FormattedAmountWithoutPoint": "0 Giift Points",
+                        "FormattedAmountWithoutPointAndCurrency": "0 Giift Points",
+                        "Currency": {
+                            "Code": "MEG",
+                            "CultureName": "en-US",
+                            "Symbol": "Giift Points",
+                            "EnglishName": "MegaDemo MVPT2",
+                            "ExchangeRate": 0.036,
+                            "CustomFormatting": "0 Giift Points"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "ActualPrice": {
+                        "InternalAmount": 42834.0,
+                        "Amount": 42834.0,
+                        "TruncatedAmount": 42834.0,
+                        "FormattedAmount": "42834 Giift Points",
+                        "FormattedAmountWithoutPoint": "42834 Giift Points",
+                        "FormattedAmountWithoutPointAndCurrency": "42834 Giift Points",
+                        "Currency": {
+                            "Code": "MEG",
+                            "CultureName": "en-US",
+                            "Symbol": "Giift Points",
+                            "EnglishName": "MegaDemo MVPT2",
+                            "ExchangeRate": 0.036,
+                            "CustomFormatting": "0 Giift Points"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "ActualPriceWithTax": {
+                        "InternalAmount": 42834.0,
+                        "Amount": 42834.0,
+                        "TruncatedAmount": 42834.0,
+                        "FormattedAmount": "42834 Giift Points",
+                        "FormattedAmountWithoutPoint": "42834 Giift Points",
+                        "FormattedAmountWithoutPointAndCurrency": "42834 Giift Points",
+                        "Currency": {
+                            "Code": "MEG",
+                            "CultureName": "en-US",
+                            "Symbol": "Giift Points",
+                            "EnglishName": "MegaDemo MVPT2",
+                            "ExchangeRate": 0.036,
+                            "CustomFormatting": "0 Giift Points"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "Quantity": 1,
+                    "Currency": {
+                        "Code": "MEG",
+                        "CultureName": "en-US",
+                        "Symbol": "Giift Points",
+                        "EnglishName": "MegaDemo MVPT2",
+                        "ExchangeRate": 0.036,
+                        "CustomFormatting": "0 Giift Points"
+                    },
+                    "TaxTotal": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "0 Giift Points",
+                        "FormattedAmountWithoutPoint": "0 Giift Points",
+                        "FormattedAmountWithoutPointAndCurrency": "0 Giift Points",
+                        "Currency": {
+                            "Code": "MEG",
+                            "CultureName": "en-US",
+                            "Symbol": "Giift Points",
+                            "EnglishName": "MegaDemo MVPT2",
+                            "ExchangeRate": 0.036,
+                            "CustomFormatting": "0 Giift Points"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "TaxPercentRate": 0.0,
+                    "TaxType": null,
+                    "TaxDetails": []
+                }
+            ],
+            "TaxTotal": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "0 Giift Points",
+                "FormattedAmountWithoutPoint": "0 Giift Points",
+                "FormattedAmountWithoutPointAndCurrency": "0 Giift Points",
+                "Currency": {
+                    "Code": "MEG",
+                    "CultureName": "en-US",
+                    "Symbol": "Giift Points",
+                    "EnglishName": "MegaDemo MVPT2",
+                    "ExchangeRate": 0.036,
+                    "CustomFormatting": "0 Giift Points"
+                },
+                "DecimalDigits": 2
+            },
+            "TaxPercentRate": 0.0,
+            "TaxType": null,
+            "TaxDetails": null
+        },
+        {
+            "PricelistId": null,
+            "Currency": {
+                "Code": "MYR",
+                "CultureName": "en-US",
+                "Symbol": "RM",
+                "EnglishName": "Malaysian RInggit",
+                "ExchangeRate": 0.8,
+                "CustomFormatting": "0.00"
+            },
+            "ProductId": "117005",
+            "DiscountAmount": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "0.00",
+                "FormattedAmountWithoutPoint": "0.00",
+                "FormattedAmountWithoutPointAndCurrency": "0.00",
+                "Currency": {
+                    "Code": "MYR",
+                    "CultureName": "en-US",
+                    "Symbol": "RM",
+                    "EnglishName": "Malaysian RInggit",
+                    "ExchangeRate": 0.8,
+                    "CustomFormatting": "0.00"
+                },
+                "DecimalDigits": 2
+            },
+            "DiscountAmountWithTax": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "0.00",
+                "FormattedAmountWithoutPoint": "0.00",
+                "FormattedAmountWithoutPointAndCurrency": "0.00",
+                "Currency": {
+                    "Code": "MYR",
+                    "CultureName": "en-US",
+                    "Symbol": "RM",
+                    "EnglishName": "Malaysian RInggit",
+                    "ExchangeRate": 0.8,
+                    "CustomFormatting": "0.00"
+                },
+                "DecimalDigits": 2
+            },
+            "DiscountPercent": 0.0,
+            "ListPrice": {
+                "InternalAmount": 1928.0,
+                "Amount": 1928.0,
+                "TruncatedAmount": 1928.0,
+                "FormattedAmount": "1928.00",
+                "FormattedAmountWithoutPoint": "1928.00",
+                "FormattedAmountWithoutPointAndCurrency": "1928.00",
+                "Currency": {
+                    "Code": "MYR",
+                    "CultureName": "en-US",
+                    "Symbol": "RM",
+                    "EnglishName": "Malaysian RInggit",
+                    "ExchangeRate": 0.8,
+                    "CustomFormatting": "0.00"
+                },
+                "DecimalDigits": 2
+            },
+            "ListPriceWithTax": {
+                "InternalAmount": 1928.0,
+                "Amount": 1928.0,
+                "TruncatedAmount": 1928.0,
+                "FormattedAmount": "1928.00",
+                "FormattedAmountWithoutPoint": "1928.00",
+                "FormattedAmountWithoutPointAndCurrency": "1928.00",
+                "Currency": {
+                    "Code": "MYR",
+                    "CultureName": "en-US",
+                    "Symbol": "RM",
+                    "EnglishName": "Malaysian RInggit",
+                    "ExchangeRate": 0.8,
+                    "CustomFormatting": "0.00"
+                },
+                "DecimalDigits": 2
+            },
+            "SalePrice": {
+                "InternalAmount": 1928.0,
+                "Amount": 1928.0,
+                "TruncatedAmount": 1928.0,
+                "FormattedAmount": "1928.00",
+                "FormattedAmountWithoutPoint": "1928.00",
+                "FormattedAmountWithoutPointAndCurrency": "1928.00",
+                "Currency": {
+                    "Code": "MYR",
+                    "CultureName": "en-US",
+                    "Symbol": "RM",
+                    "EnglishName": "Malaysian RInggit",
+                    "ExchangeRate": 0.8,
+                    "CustomFormatting": "0.00"
+                },
+                "DecimalDigits": 2
+            },
+            "SalePriceWithTax": {
+                "InternalAmount": 1928.0,
+                "Amount": 1928.0,
+                "TruncatedAmount": 1928.0,
+                "FormattedAmount": "1928.00",
+                "FormattedAmountWithoutPoint": "1928.00",
+                "FormattedAmountWithoutPointAndCurrency": "1928.00",
+                "Currency": {
+                    "Code": "MYR",
+                    "CultureName": "en-US",
+                    "Symbol": "RM",
+                    "EnglishName": "Malaysian RInggit",
+                    "ExchangeRate": 0.8,
+                    "CustomFormatting": "0.00"
+                },
+                "DecimalDigits": 2
+            },
+            "ActualPrice": {
+                "InternalAmount": 1928.0,
+                "Amount": 1928.0,
+                "TruncatedAmount": 1928.0,
+                "FormattedAmount": "1928.00",
+                "FormattedAmountWithoutPoint": "1928.00",
+                "FormattedAmountWithoutPointAndCurrency": "1928.00",
+                "Currency": {
+                    "Code": "MYR",
+                    "CultureName": "en-US",
+                    "Symbol": "RM",
+                    "EnglishName": "Malaysian RInggit",
+                    "ExchangeRate": 0.8,
+                    "CustomFormatting": "0.00"
+                },
+                "DecimalDigits": 2
+            },
+            "ActualPriceWithTax": {
+                "InternalAmount": 1928.0,
+                "Amount": 1928.0,
+                "TruncatedAmount": 1928.0,
+                "FormattedAmount": "1928.00",
+                "FormattedAmountWithoutPoint": "1928.00",
+                "FormattedAmountWithoutPointAndCurrency": "1928.00",
+                "Currency": {
+                    "Code": "MYR",
+                    "CultureName": "en-US",
+                    "Symbol": "RM",
+                    "EnglishName": "Malaysian RInggit",
+                    "ExchangeRate": 0.8,
+                    "CustomFormatting": "0.00"
+                },
+                "DecimalDigits": 2
+            },
+            "Discounts": [],
+            "MinQuantity": null,
+            "TierPrices": [
+                {
+                    "Price": {
+                        "InternalAmount": 1928.0,
+                        "Amount": 1928.0,
+                        "TruncatedAmount": 1928.0,
+                        "FormattedAmount": "1928.00",
+                        "FormattedAmountWithoutPoint": "1928.00",
+                        "FormattedAmountWithoutPointAndCurrency": "1928.00",
+                        "Currency": {
+                            "Code": "MYR",
+                            "CultureName": "en-US",
+                            "Symbol": "RM",
+                            "EnglishName": "Malaysian RInggit",
+                            "ExchangeRate": 0.8,
+                            "CustomFormatting": "0.00"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "PriceWithTax": {
+                        "InternalAmount": 1928.0,
+                        "Amount": 1928.0,
+                        "TruncatedAmount": 1928.0,
+                        "FormattedAmount": "1928.00",
+                        "FormattedAmountWithoutPoint": "1928.00",
+                        "FormattedAmountWithoutPointAndCurrency": "1928.00",
+                        "Currency": {
+                            "Code": "MYR",
+                            "CultureName": "en-US",
+                            "Symbol": "RM",
+                            "EnglishName": "Malaysian RInggit",
+                            "ExchangeRate": 0.8,
+                            "CustomFormatting": "0.00"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "DiscountAmount": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "0.00",
+                        "FormattedAmountWithoutPoint": "0.00",
+                        "FormattedAmountWithoutPointAndCurrency": "0.00",
+                        "Currency": {
+                            "Code": "MYR",
+                            "CultureName": "en-US",
+                            "Symbol": "RM",
+                            "EnglishName": "Malaysian RInggit",
+                            "ExchangeRate": 0.8,
+                            "CustomFormatting": "0.00"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "DiscountAmountWithTax": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "0.00",
+                        "FormattedAmountWithoutPoint": "0.00",
+                        "FormattedAmountWithoutPointAndCurrency": "0.00",
+                        "Currency": {
+                            "Code": "MYR",
+                            "CultureName": "en-US",
+                            "Symbol": "RM",
+                            "EnglishName": "Malaysian RInggit",
+                            "ExchangeRate": 0.8,
+                            "CustomFormatting": "0.00"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "ActualPrice": {
+                        "InternalAmount": 1928.0,
+                        "Amount": 1928.0,
+                        "TruncatedAmount": 1928.0,
+                        "FormattedAmount": "1928.00",
+                        "FormattedAmountWithoutPoint": "1928.00",
+                        "FormattedAmountWithoutPointAndCurrency": "1928.00",
+                        "Currency": {
+                            "Code": "MYR",
+                            "CultureName": "en-US",
+                            "Symbol": "RM",
+                            "EnglishName": "Malaysian RInggit",
+                            "ExchangeRate": 0.8,
+                            "CustomFormatting": "0.00"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "ActualPriceWithTax": {
+                        "InternalAmount": 1928.0,
+                        "Amount": 1928.0,
+                        "TruncatedAmount": 1928.0,
+                        "FormattedAmount": "1928.00",
+                        "FormattedAmountWithoutPoint": "1928.00",
+                        "FormattedAmountWithoutPointAndCurrency": "1928.00",
+                        "Currency": {
+                            "Code": "MYR",
+                            "CultureName": "en-US",
+                            "Symbol": "RM",
+                            "EnglishName": "Malaysian RInggit",
+                            "ExchangeRate": 0.8,
+                            "CustomFormatting": "0.00"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "Quantity": 1,
+                    "Currency": {
+                        "Code": "MYR",
+                        "CultureName": "en-US",
+                        "Symbol": "RM",
+                        "EnglishName": "Malaysian RInggit",
+                        "ExchangeRate": 0.8,
+                        "CustomFormatting": "0.00"
+                    },
+                    "TaxTotal": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "0.00",
+                        "FormattedAmountWithoutPoint": "0.00",
+                        "FormattedAmountWithoutPointAndCurrency": "0.00",
+                        "Currency": {
+                            "Code": "MYR",
+                            "CultureName": "en-US",
+                            "Symbol": "RM",
+                            "EnglishName": "Malaysian RInggit",
+                            "ExchangeRate": 0.8,
+                            "CustomFormatting": "0.00"
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "TaxPercentRate": 0.0,
+                    "TaxType": null,
+                    "TaxDetails": []
+                }
+            ],
+            "TaxTotal": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "0.00",
+                "FormattedAmountWithoutPoint": "0.00",
+                "FormattedAmountWithoutPointAndCurrency": "0.00",
+                "Currency": {
+                    "Code": "MYR",
+                    "CultureName": "en-US",
+                    "Symbol": "RM",
+                    "EnglishName": "Malaysian RInggit",
+                    "ExchangeRate": 0.8,
+                    "CustomFormatting": "0.00"
+                },
+                "DecimalDigits": 2
+            },
+            "TaxPercentRate": 0.0,
+            "TaxType": null,
+            "TaxDetails": null
+        },
+        {
+            "PricelistId": null,
+            "Currency": {
+                "Code": "USD",
+                "CultureName": "en-US",
+                "Symbol": "$",
+                "EnglishName": "US Dollars",
+                "ExchangeRate": 3.7,
+                "CustomFormatting": null
+            },
+            "ProductId": "117005",
+            "DiscountAmount": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "$0.00",
+                "FormattedAmountWithoutPoint": "$0",
+                "FormattedAmountWithoutPointAndCurrency": "0",
+                "Currency": {
+                    "Code": "USD",
+                    "CultureName": "en-US",
+                    "Symbol": "$",
+                    "EnglishName": "US Dollars",
+                    "ExchangeRate": 3.7,
+                    "CustomFormatting": null
+                },
+                "DecimalDigits": 2
+            },
+            "DiscountAmountWithTax": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "$0.00",
+                "FormattedAmountWithoutPoint": "$0",
+                "FormattedAmountWithoutPointAndCurrency": "0",
+                "Currency": {
+                    "Code": "USD",
+                    "CultureName": "en-US",
+                    "Symbol": "$",
+                    "EnglishName": "US Dollars",
+                    "ExchangeRate": 3.7,
+                    "CustomFormatting": null
+                },
+                "DecimalDigits": 2
+            },
+            "DiscountPercent": 0.0,
+            "ListPrice": {
+                "InternalAmount": 417.0,
+                "Amount": 417.0,
+                "TruncatedAmount": 417.0,
+                "FormattedAmount": "$417.00",
+                "FormattedAmountWithoutPoint": "$417",
+                "FormattedAmountWithoutPointAndCurrency": "417",
+                "Currency": {
+                    "Code": "USD",
+                    "CultureName": "en-US",
+                    "Symbol": "$",
+                    "EnglishName": "US Dollars",
+                    "ExchangeRate": 3.7,
+                    "CustomFormatting": null
+                },
+                "DecimalDigits": 2
+            },
+            "ListPriceWithTax": {
+                "InternalAmount": 417.0,
+                "Amount": 417.0,
+                "TruncatedAmount": 417.0,
+                "FormattedAmount": "$417.00",
+                "FormattedAmountWithoutPoint": "$417",
+                "FormattedAmountWithoutPointAndCurrency": "417",
+                "Currency": {
+                    "Code": "USD",
+                    "CultureName": "en-US",
+                    "Symbol": "$",
+                    "EnglishName": "US Dollars",
+                    "ExchangeRate": 3.7,
+                    "CustomFormatting": null
+                },
+                "DecimalDigits": 2
+            },
+            "SalePrice": {
+                "InternalAmount": 417.0,
+                "Amount": 417.0,
+                "TruncatedAmount": 417.0,
+                "FormattedAmount": "$417.00",
+                "FormattedAmountWithoutPoint": "$417",
+                "FormattedAmountWithoutPointAndCurrency": "417",
+                "Currency": {
+                    "Code": "USD",
+                    "CultureName": "en-US",
+                    "Symbol": "$",
+                    "EnglishName": "US Dollars",
+                    "ExchangeRate": 3.7,
+                    "CustomFormatting": null
+                },
+                "DecimalDigits": 2
+            },
+            "SalePriceWithTax": {
+                "InternalAmount": 417.0,
+                "Amount": 417.0,
+                "TruncatedAmount": 417.0,
+                "FormattedAmount": "$417.00",
+                "FormattedAmountWithoutPoint": "$417",
+                "FormattedAmountWithoutPointAndCurrency": "417",
+                "Currency": {
+                    "Code": "USD",
+                    "CultureName": "en-US",
+                    "Symbol": "$",
+                    "EnglishName": "US Dollars",
+                    "ExchangeRate": 3.7,
+                    "CustomFormatting": null
+                },
+                "DecimalDigits": 2
+            },
+            "ActualPrice": {
+                "InternalAmount": 417.0,
+                "Amount": 417.0,
+                "TruncatedAmount": 417.0,
+                "FormattedAmount": "$417.00",
+                "FormattedAmountWithoutPoint": "$417",
+                "FormattedAmountWithoutPointAndCurrency": "417",
+                "Currency": {
+                    "Code": "USD",
+                    "CultureName": "en-US",
+                    "Symbol": "$",
+                    "EnglishName": "US Dollars",
+                    "ExchangeRate": 3.7,
+                    "CustomFormatting": null
+                },
+                "DecimalDigits": 2
+            },
+            "ActualPriceWithTax": {
+                "InternalAmount": 417.0,
+                "Amount": 417.0,
+                "TruncatedAmount": 417.0,
+                "FormattedAmount": "$417.00",
+                "FormattedAmountWithoutPoint": "$417",
+                "FormattedAmountWithoutPointAndCurrency": "417",
+                "Currency": {
+                    "Code": "USD",
+                    "CultureName": "en-US",
+                    "Symbol": "$",
+                    "EnglishName": "US Dollars",
+                    "ExchangeRate": 3.7,
+                    "CustomFormatting": null
+                },
+                "DecimalDigits": 2
+            },
+            "Discounts": [],
+            "MinQuantity": null,
+            "TierPrices": [
+                {
+                    "Price": {
+                        "InternalAmount": 417.0,
+                        "Amount": 417.0,
+                        "TruncatedAmount": 417.0,
+                        "FormattedAmount": "$417.00",
+                        "FormattedAmountWithoutPoint": "$417",
+                        "FormattedAmountWithoutPointAndCurrency": "417",
+                        "Currency": {
+                            "Code": "USD",
+                            "CultureName": "en-US",
+                            "Symbol": "$",
+                            "EnglishName": "US Dollars",
+                            "ExchangeRate": 3.7,
+                            "CustomFormatting": null
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "PriceWithTax": {
+                        "InternalAmount": 417.0,
+                        "Amount": 417.0,
+                        "TruncatedAmount": 417.0,
+                        "FormattedAmount": "$417.00",
+                        "FormattedAmountWithoutPoint": "$417",
+                        "FormattedAmountWithoutPointAndCurrency": "417",
+                        "Currency": {
+                            "Code": "USD",
+                            "CultureName": "en-US",
+                            "Symbol": "$",
+                            "EnglishName": "US Dollars",
+                            "ExchangeRate": 3.7,
+                            "CustomFormatting": null
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "DiscountAmount": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "$0.00",
+                        "FormattedAmountWithoutPoint": "$0",
+                        "FormattedAmountWithoutPointAndCurrency": "0",
+                        "Currency": {
+                            "Code": "USD",
+                            "CultureName": "en-US",
+                            "Symbol": "$",
+                            "EnglishName": "US Dollars",
+                            "ExchangeRate": 3.7,
+                            "CustomFormatting": null
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "DiscountAmountWithTax": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "$0.00",
+                        "FormattedAmountWithoutPoint": "$0",
+                        "FormattedAmountWithoutPointAndCurrency": "0",
+                        "Currency": {
+                            "Code": "USD",
+                            "CultureName": "en-US",
+                            "Symbol": "$",
+                            "EnglishName": "US Dollars",
+                            "ExchangeRate": 3.7,
+                            "CustomFormatting": null
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "ActualPrice": {
+                        "InternalAmount": 417.0,
+                        "Amount": 417.0,
+                        "TruncatedAmount": 417.0,
+                        "FormattedAmount": "$417.00",
+                        "FormattedAmountWithoutPoint": "$417",
+                        "FormattedAmountWithoutPointAndCurrency": "417",
+                        "Currency": {
+                            "Code": "USD",
+                            "CultureName": "en-US",
+                            "Symbol": "$",
+                            "EnglishName": "US Dollars",
+                            "ExchangeRate": 3.7,
+                            "CustomFormatting": null
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "ActualPriceWithTax": {
+                        "InternalAmount": 417.0,
+                        "Amount": 417.0,
+                        "TruncatedAmount": 417.0,
+                        "FormattedAmount": "$417.00",
+                        "FormattedAmountWithoutPoint": "$417",
+                        "FormattedAmountWithoutPointAndCurrency": "417",
+                        "Currency": {
+                            "Code": "USD",
+                            "CultureName": "en-US",
+                            "Symbol": "$",
+                            "EnglishName": "US Dollars",
+                            "ExchangeRate": 3.7,
+                            "CustomFormatting": null
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "Quantity": 1,
+                    "Currency": {
+                        "Code": "USD",
+                        "CultureName": "en-US",
+                        "Symbol": "$",
+                        "EnglishName": "US Dollars",
+                        "ExchangeRate": 3.7,
+                        "CustomFormatting": null
+                    },
+                    "TaxTotal": {
+                        "InternalAmount": 0.0,
+                        "Amount": 0.0,
+                        "TruncatedAmount": 0.0,
+                        "FormattedAmount": "$0.00",
+                        "FormattedAmountWithoutPoint": "$0",
+                        "FormattedAmountWithoutPointAndCurrency": "0",
+                        "Currency": {
+                            "Code": "USD",
+                            "CultureName": "en-US",
+                            "Symbol": "$",
+                            "EnglishName": "US Dollars",
+                            "ExchangeRate": 3.7,
+                            "CustomFormatting": null
+                        },
+                        "DecimalDigits": 2
+                    },
+                    "TaxPercentRate": 0.0,
+                    "TaxType": null,
+                    "TaxDetails": []
+                }
+            ],
+            "TaxTotal": {
+                "InternalAmount": 0.0,
+                "Amount": 0.0,
+                "TruncatedAmount": 0.0,
+                "FormattedAmount": "$0.00",
+                "FormattedAmountWithoutPoint": "$0",
+                "FormattedAmountWithoutPointAndCurrency": "0",
+                "Currency": {
+                    "Code": "USD",
+                    "CultureName": "en-US",
+                    "Symbol": "$",
+                    "EnglishName": "US Dollars",
+                    "ExchangeRate": 3.7,
+                    "CustomFormatting": null
+                },
+                "DecimalDigits": 2
+            },
+            "TaxPercentRate": 0.0,
+            "TaxType": null,
+            "TaxDetails": null
+        }
+    ],
+    "Inventory": null,
+    "InventoryAll": null,
+    "SeoInfo": {
+        "MetaDescription": null,
+        "Slug": "JPL6973",
+        "MetaKeywords": null,
+        "Title": "117005",
+        "ImageUrl": null,
+        "Language": {
+            "IsInvariant": false,
+            "CultureName": "en-US",
+            "NativeName": "English (United States)",
+            "ThreeLeterLanguageName": "eng",
+            "TwoLetterLanguageName": "en",
+            "TwoLetterRegionName": "US",
+            "ThreeLetterRegionName": "USA"
+        }
+    },
+    "PrimaryImage": {
+        "Url": "https://static.jazp.com/uploads/202206/d770c912a77a9ad78351b27c9fc22d79.jpeg",
+        "FullSizeImageUrl": null,
+        "Title": null,
+        "Alt": null
+    },
+    "Images": [
+        {
+            "Url": "https://static.jazp.com/uploads/202206/d770c912a77a9ad78351b27c9fc22d79.jpeg",
+            "FullSizeImageUrl": null,
+            "Title": null,
+            "Alt": null
+        },
+        {
+            "Url": "https://static.jazp.com/uploads/202206/73f0718552bb40eb903b39ac47458e6a.jpeg",
+            "FullSizeImageUrl": null,
+            "Title": null,
+            "Alt": null
+        },
+        {
+            "Url": "https://static.jazp.com/uploads/202206/f91e75bb84c41291e36f90b5537dc9a3.jpeg",
+            "FullSizeImageUrl": null,
+            "Title": null,
+            "Alt": null
+        },
+        {
+            "Url": "https://static.jazp.com/uploads/202206/21403e4b7d136f842ca791098ca7abce.jpeg",
+            "FullSizeImageUrl": null,
+            "Title": null,
+            "Alt": null
+        },
+        {
+            "Url": "https://static.jazp.com/uploads/202206/ca23e46b70f56e791f22a96a7708cf17.jpeg",
+            "FullSizeImageUrl": null,
+            "Title": null,
+            "Alt": null
+        }
+    ],
+    "IsQuotable": true,
+    "IsAvailable": true,
+    "Properties": [
+        {
+            "Id": null,
+            "Name": "BatchId",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": "07082023",
+            "DisplayName": "BatchId",
+            "DisplayNames": null,
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "c2954723-8f5a-4d73-bb88-84fe85d8aeaf",
+            "Name": "Brand",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": "Anker",
+            "DisplayName": "Brand",
+            "DisplayNames": [
+                {
+                    "Value": "Brand",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": null,
+            "Name": "Bundle",
+            "Type": "Product",
+            "ValueType": "LongText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": "Not Bundle",
+            "DisplayName": "Bundle",
+            "DisplayNames": null,
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "5327b3f6-e048-4618-a9bc-f732b8e699dd",
+            "Name": "Category",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": "Electronics & Tools",
+            "DisplayName": "Category",
+            "DisplayNames": [
+                {
+                    "Value": "Category",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "a512734a-ab3f-4ba7-a080-35548bd1bf93",
+            "Name": "Color",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": "Black",
+            "DisplayName": "Color",
+            "DisplayNames": [
+                {
+                    "Value": "Color",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "0e3511f2-8cf5-4d9d-ada5-3bbb7d5015b8",
+            "Name": "Country",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": null,
+            "DisplayName": "Country",
+            "DisplayNames": [
+                {
+                    "Value": "Country",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                },
+                {
+                    "Value": null,
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "ar-AE",
+                        "NativeName": "العربية (الإمارات العربية المتحدة)",
+                        "ThreeLeterLanguageName": "ara",
+                        "TwoLetterLanguageName": "ar",
+                        "TwoLetterRegionName": "AE",
+                        "ThreeLetterRegionName": "ARE"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "84d2a976-6b9c-41fd-b17e-b8f4808f9319",
+            "Name": "Deals",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": null,
+            "DisplayName": "Deals",
+            "DisplayNames": [
+                {
+                    "Value": "Deals",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "24ff6dc7-e998-4c62-a4e9-b40dd1e20d90",
+            "Name": "DiscountPercentage",
+            "Type": "Product",
+            "ValueType": "Number",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": null,
+            "DisplayName": "DiscountPercentage",
+            "DisplayNames": [
+                {
+                    "Value": "DiscountPercentage",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "d628810c-5533-4186-9f24-89f93fadf16b",
+            "Name": "LongDescription",
+            "Type": "Product",
+            "ValueType": "LongText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": "Anker D2410V11 has the power to project an image up to 100 inches big, Capture the spectacle of the movie theater, Expand Astro’s capabilities by connecting up HDMI, USB-C, and Bluetooth devices, Can even wirelessly mirror content from phone via mirror cast and AirPlay.",
+            "DisplayName": "LongDescription",
+            "DisplayNames": [
+                {
+                    "Value": "LongDescription",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "6bf85acb-e580-40ac-b557-8d5e6f722e1f",
+            "Name": "MaxDeliveryDays",
+            "Type": "Product",
+            "ValueType": "Integer",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": "7",
+            "DisplayName": "MaxDeliveryDays",
+            "DisplayNames": [
+                {
+                    "Value": "MaxDeliveryDays",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "3a22daf2-a9c5-4c31-afb3-a1fe9f895817",
+            "Name": "MinDeliveryDays",
+            "Type": "Product",
+            "ValueType": "Integer",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": "2",
+            "DisplayName": "MinDeliveryDays",
+            "DisplayNames": [
+                {
+                    "Value": "MinDeliveryDays",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "46ff43b6-c209-4c2f-9331-97623009e20f",
+            "Name": "Partner",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": "Jazp-Qatar",
+            "DisplayName": "Partner",
+            "DisplayNames": [
+                {
+                    "Value": "Partner",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "88ba63bb-037c-46ac-bc6c-b70ae8587019",
+            "Name": "Segments",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": null,
+            "DisplayName": "Segments",
+            "DisplayNames": [
+                {
+                    "Value": "Segments",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": true,
+            "Values": []
+        },
+        {
+            "Id": "7dee221e-1994-4884-8e9e-a379dca7be50",
+            "Name": "Storage",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": null,
+            "DisplayName": "Storage",
+            "DisplayNames": [
+                {
+                    "Value": "Storage",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "c2606b14-bf80-4879-b6c5-e5c3f8bf76c2",
+            "Name": "SubCategory",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": "Projectors",
+            "DisplayName": "SubCategory",
+            "DisplayNames": [
+                {
+                    "Value": "SubCategory",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "5d0a2f20-4af7-40bd-84b4-5b9666e7b116",
+            "Name": "Tags",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": null,
+            "DisplayName": "Tags",
+            "DisplayNames": [
+                {
+                    "Value": "Tags",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": true,
+            "Values": []
+        },
+        {
+            "Id": "d85b3740-f72d-4229-80da-2e5ec473258b",
+            "Name": "VendorListPrice",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": "1542",
+            "DisplayName": "VendorListPrice",
+            "DisplayNames": [
+                {
+                    "Value": "VendorListPrice",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        },
+        {
+            "Id": "652b654b-a255-4f82-8bd9-57a15fe096ca",
+            "Name": "VendorSalePrice",
+            "Type": "Product",
+            "ValueType": "ShortText",
+            "ValueId": null,
+            "LocalizedValues": null,
+            "Value": "1542",
+            "DisplayName": "VendorSalePrice",
+            "DisplayNames": [
+                {
+                    "Value": "VendorSalePrice",
+                    "Language": {
+                        "IsInvariant": false,
+                        "CultureName": "en-US",
+                        "NativeName": "English (United States)",
+                        "ThreeLeterLanguageName": "eng",
+                        "TwoLetterLanguageName": "en",
+                        "TwoLetterRegionName": "US",
+                        "ThreeLetterRegionName": "USA"
+                    },
+                    "ValueType": null
+                }
+            ],
+            "IsMultivalue": false,
+            "Values": null
+        }
+    ],
+    "TaxTotal": {
+        "InternalAmount": 0.0,
+        "Amount": 0.0,
+        "TruncatedAmount": 0.0,
+        "FormattedAmount": "00.000 دإ",
+        "FormattedAmountWithoutPoint": "00.000 دإ",
+        "FormattedAmountWithoutPointAndCurrency": "00.000 دإ",
+        "Currency": {
+            "Code": "AED",
+            "CultureName": "en-US",
+            "Symbol": "د.إ",
+            "EnglishName": "United Arab Emirates Dirham",
+            "ExchangeRate": 1.0,
+            "CustomFormatting": "0,0.000 د.إ"
+        },
+        "DecimalDigits": 2
+    },
+    "TaxPercentRate": 0.0,
+    "TaxType": null,
+    "TaxDetails": [],
+    "Discounts": [],
+    "Currency": {
+        "Code": "AED",
+        "CultureName": "en-US",
+        "Symbol": "د.إ",
+        "EnglishName": "United Arab Emirates Dirham",
+        "ExchangeRate": 1.0,
+        "CustomFormatting": "0,0.000 د.إ"
+    },
+    "Url": null,
+    "Ratings": 0.0,
+    "CreatedDate": "2023-08-07T10:55:10.1439778Z",
+    "ModifiedDate": "2024-03-20T06:01:33.1485307Z",
+    "StartDate": "2023-08-07T10:55:10.1388565Z",
+    "EndDate": null,
+    "MainProductId": null,
+    "Path": "Electronics & Tools/Projectors"
+}

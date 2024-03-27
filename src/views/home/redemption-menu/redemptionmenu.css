@@ -1,0 +1,13 @@
+.dvCategorySlide .bg-lightblue {
+  background-color: var(--bg-lightblue);
+}
+.dvCategorySlide .bg-darkblue {
+  background-color: var(--bg-darkblue);
+}
+.dvCategorySlide .bg-blue {
+  background-color: var(--bg-blue);
+}
+.dvCategorySlide img {
+  width: 20px;
+  height: 20px;
+}

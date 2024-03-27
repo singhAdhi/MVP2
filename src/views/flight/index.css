@@ -1,0 +1,201 @@
+.flight-div {
+  padding: 0 24px 24px 24px;
+  background: #ffff;
+  height: 100vh;
+}
+
+#comman_modal {
+  border-radius: 24px;
+  margin-top: 53px;
+}
+
+.passenger-form {
+  border-radius: 24px;
+  background: var(--Neutral-White, #FFF);
+}
+
+#comman_modal .modal-body {
+  background: var(--Neutral-BG-Light, #f5f4fb);
+}
+
+#comman_modal .modal-header {
+  background: var(--Neutral-BG-Light, #f5f4fb);
+}
+
+/* ul li {
+  list-style: none;
+  background: var(--Neutral-BG-Light, #f5f4fb);
+} */
+
+#searchInput {
+  padding: 2px 2px;
+  border-radius: 18px;
+  background: linear-gradient(#59edcb, #7563f6);
+}
+
+#searchInput input {
+  background: #f5f4fb;
+  border-radius: 16px;
+}
+
+.no-flex {
+  flex: 0;
+}
+
+.roundtrip {
+  transform: rotate(180deg);
+}
+
+.oneway {
+  transform: rotate(-180deg);
+}
+
+.react-datepicker {
+  width: 100% !important;
+  display: grid !important;
+  border: 0 !important;
+  background: transparent !important;
+}
+
+.react-datepicker__header {
+  border: 0 !important;
+  background: transparent !important;
+}
+
+.light-div {
+  background: rgba(165, 185, 215, 0.25) !important;
+}
+
+#form_modal {
+  border-radius: 24px 24px 0 0 !important;
+}
+
+#searchInputAirline {
+  width: 100%;
+  padding: 8px 16px;
+  border-radius: 16px;
+  background: rgba(24, 51, 90, 0.05);
+}
+
+/**/
+.from-to {
+  color: var(--Text-Dark-3, #5979a7);
+  font-family: "Source Sans Pro";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 16px;
+  text-transform: capitalize;
+  cursor: pointer;
+  margin-bottom: 6px;
+}
+
+.from-to-txt1 {
+  color: var(--Text-Dark-1, #000);
+  font-family: "Source Sans Pro";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.from-to-txt2 {
+  color: var(--Text-Dark-1, #000);
+  font-family: "Source Sans Pro";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 16px;
+  text-transform: capitalize;
+}
+
+.select-destiantion span {
+  color: var(--Text-Dark-3, #5979a7);
+  text-align: center;
+  font-family: "Source Sans Pro";
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 16px;
+  text-transform: capitalize;
+}
+
+.light-blue-txt {
+  color: var(--Text-Dark-2, #bddfff) !important;
+}
+
+.dark-blue-txt {
+  color: var(--Text-Dark-2, #35598c);
+}
+
+.travel {
+  font-family: "Source Sans Pro";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 16px;
+  text-transform: capitalize;
+}
+
+.travel-date-heading {
+  color: var(--Text-Dark-3, #5979a7);
+  text-align: center;
+  font-family: "Source Sans Pro";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 16px;
+  /* 114.286% */
+  text-transform: capitalize;
+}
+
+.travel-date-btn {
+  margin-top: 6px;
+  padding: 8px 16px !important;
+  border: 0 !important;
+  width: 220px;
+  background: rgba(165, 185, 215, 0.25) !important;
+}
+
+.travel-date-btn-enable {
+  background: #035bff !important;
+  color: #fff !important;
+}
+
+.travel-date-btn-disable {
+  background: rgba(165, 185, 215, 0.25) !important;
+  color: #bddfff !important;
+}
+
+.search-btn {
+  display: flex;
+  height: 48px;
+  padding: 14px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  border-radius: 16px;
+  background: var(--Primary-Main, #035bff);
+}
+
+.bg-input {
+  border-radius: 16px !important;
+  background: rgba(24, 51, 90, 0.05) !important;
+  border: 0px !important;
+  padding: 10px !important;
+  width: 100% !important;
+}
+
+.react-datepicker-wrapper {
+  display: block !important;
+}
+
+.form-label {
+  color: var(--Text-Dark-3, #5979a7);
+  font-family: "Source Sans Pro";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 16px;
+  text-transform: capitalize;
+}

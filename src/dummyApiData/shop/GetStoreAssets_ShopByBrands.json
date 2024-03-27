@@ -1,0 +1,67 @@
+{
+  "GetStoreAssets_ShopByBrands": {
+    "TotalCount": 6,
+    "AssetDetails": [
+      {
+        "Size": 58364,
+        "ContentType": "image/svg+xml",
+        "Type": "blob",
+        "Name": "apple.svg",
+        "Url": "https://shopgatewayuat.giift.com/assets/stores/MVPT2/shopbybrands/apple.svg",
+        "RelativeUrl": "/stores/MVPT2/shopbybrands/apple.svg",
+        "CreatedDate": "2024-03-14T17:37:07.465953Z",
+        "ModifiedDate": "2024-03-14T17:37:07.465953Z"
+      },
+      {
+        "Size": 12717,
+        "ContentType": "image/svg+xml",
+        "Type": "blob",
+        "Name": "dior.svg",
+        "Url": "https://shopgatewayuat.giift.com/assets/stores/MVPT2/shopbybrands/dior.svg",
+        "RelativeUrl": "/stores/MVPT2/shopbybrands/dior.svg",
+        "CreatedDate": "2024-03-14T17:37:28.0365206Z",
+        "ModifiedDate": "2024-03-14T17:37:28.0365206Z"
+      },
+      {
+        "Size": 16537,
+        "ContentType": "image/svg+xml",
+        "Type": "blob",
+        "Name": "jbl.svg",
+        "Url": "https://shopgatewayuat.giift.com/assets/stores/MVPT2/shopbybrands/jbl.svg",
+        "RelativeUrl": "/stores/MVPT2/shopbybrands/jbl.svg",
+        "CreatedDate": "2024-03-14T17:37:12.7651183Z",
+        "ModifiedDate": "2024-03-14T17:37:12.7651183Z"
+      },
+      {
+        "Size": 4749,
+        "ContentType": "image/svg+xml",
+        "Type": "blob",
+        "Name": "oneplus.svg",
+        "Url": "https://shopgatewayuat.giift.com/assets/stores/MVPT2/shopbybrands/oneplus.svg",
+        "RelativeUrl": "/stores/MVPT2/shopbybrands/oneplus.svg",
+        "CreatedDate": "2024-03-14T17:37:21.2842133Z",
+        "ModifiedDate": "2024-03-14T17:37:21.2842133Z"
+      },
+      {
+        "Size": 34421,
+        "ContentType": "image/svg+xml",
+        "Type": "blob",
+        "Name": "rolex.svg",
+        "Url": "https://shopgatewayuat.giift.com/assets/stores/MVPT2/shopbybrands/rolex.svg",
+        "RelativeUrl": "/stores/MVPT2/shopbybrands/rolex.svg",
+        "CreatedDate": "2024-03-14T17:37:15.7193885Z",
+        "ModifiedDate": "2024-03-14T17:37:15.7193885Z"
+      },
+      {
+        "Size": 14669,
+        "ContentType": "image/svg+xml",
+        "Type": "blob",
+        "Name": "samsung.svg",
+        "Url": "https://shopgatewayuat.giift.com/assets/stores/MVPT2/shopbybrands/samsung.svg",
+        "RelativeUrl": "/stores/MVPT2/shopbybrands/samsung.svg",
+        "CreatedDate": "2024-03-14T17:37:30.3825497Z",
+        "ModifiedDate": "2024-03-14T17:37:30.3825497Z"
+      }
+    ]
+  }
+}

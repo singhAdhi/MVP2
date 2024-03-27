@@ -1,0 +1,19 @@
+@media (min-width: 768px) {
+  .dvHero {
+    overflow: hidden;
+    max-height: 70vh;
+  }
+  .dvHero img {
+    margin-top: -5rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .dvHero {
+    overflow: hidden;
+    max-height: 100vh;
+  }
+  .dvHero img {
+    margin-top: -5rem;
+  }
+}
