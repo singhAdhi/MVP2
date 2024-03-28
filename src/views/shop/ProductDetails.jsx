@@ -4,9 +4,15 @@ import { useParams } from "react-router-dom";
 import SwiperSlider from "../../components/global/swiper/SwiperSlider";
 import axios from "axios";
 import "./ProductDetails.css";
+import BtnPrimary from "../../components/global/buttons/btn-primary/BtnPrimary";
+import BtnSecondary from "../../components/global/buttons/btn-secondary/BtnSecondary";
+import { Link } from "react-router-dom";
+import SkeletonImg from "../../components/global/SkeletonImg/SkeletonImg";
+import SkeletonText from "../../components/global/SkeletonText/SkeletonText";
 const ProductDetails = () => {
   let [img, setImg] = useState([]);
   let [detail, setDetail] = useState(null);
+  let [loading, setLoading] = useState(true);
   let Params = useParams();
   console.log(Params.id);
   const options = {
@@ -44,7 +50,9 @@ const ProductDetails = () => {
     },
   };
   useEffect(() => {
-    getProducts();
+    setTimeout(() => {
+      getProducts();
+    }, 2000);
   }, []);
   const getProducts = async () => {
     try {
@@ -54,6 +62,7 @@ const ProductDetails = () => {
         .then((data) => {
           setImg(data?.data?.Images);
           setDetail(data?.data);
+          setLoading(false);
         })
         .catch((err) => {
           console.log(err);
@@ -81,38 +90,54 @@ const ProductDetails = () => {
     //       .then((result) => console.log(result))
     //       .catch((error) => console.error(error));
   };
-  console.log(detail?.Properties[8].Value.split("<li>"));
+  console.log(detail);
   return (
     <div className="overflow-hidden col-12 my-4">
       <div
         className="slider mx-2 py-4 px-1"
         style={{
           borderRadius: "24px",
-          background: "lightgray 50% / cover no-repeat",
-          backgroundBlendMode: "lighten",
+          background: "#fff",
         }}
       >
-        <SwiperSlider
-          options={options}
-          slides={img.map((slide) => (
-            <HorizontalCardDetail slide={slide} />
-          ))}
-        />
+        {loading ? (
+          <SkeletonImg height={"250px"} />
+        ) : (
+          <SwiperSlider
+            options={options}
+            slides={img.map((slide) => (
+              <HorizontalCardDetail slide={slide} />
+            ))}
+          />
+        )}
         <div className="swiper-pagination"></div>
       </div>
-      <div className="content bg-white mx-2 p-4 b-radius mb-5 mt-3">
-        <p className="productName">{detail?.Name}</p>
-        <div className="border-bottom my-3"></div>
-        <div className="">
-          {detail?.Properties[8].Value.split("<li>").map((item, index) => (
-            <span
-              className="Description "
-              key={index}
-              style={{ display: "block" }}
-              dangerouslySetInnerHTML={{ __html: item }}
-            />
-          ))}
-        </div>
+      <div className="content bg-white mx-2 p-4 b-radius mt-3">
+        {loading ? (
+          <SkeletonText />
+        ) : (
+          <div>
+            <p className="productName">{detail?.Name}</p>
+            <div className="border-bottom my-3"></div>
+            <div className="">
+              {detail?.Properties[8].Value.split("<li>").map((item, index) => (
+                <span
+                  className="Description "
+                  key={index}
+                  style={{ display: "block" }}
+                  dangerouslySetInnerHTML={{ __html: item }}
+                />
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+
+      <div className="mx-2 p-4 b-radius mb-5 mt-3 d-flex justify-content-around">
+        <Link to="/cart">
+          <BtnSecondary children={"ADD TO CART"} />
+        </Link>
+        <BtnPrimary children={"BUY NOW"} />
       </div>
     </div>
   );

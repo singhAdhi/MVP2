@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <>
-      <div className="dvFooter fixed-bottom">
+      <div className="dvFooter sticky-bottom">
         <div className="bg-white shadow b-radius p-3 d-flex justify-content-between align-items-center">
           <a href="">
             <img

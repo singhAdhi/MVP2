@@ -13,6 +13,7 @@ import FlightTicket from "../views/flight/flight-ticket/FlightTicket";
 import FlightBookingDetail from "../views/flight/Flight-detail/FlightBookingDetail";
 import Category from "../views/shop/Category";
 import ProductDetails from "../views/shop/ProductDetails";
+import Cart from "../views/shop/Cart/Cart";
 
 const router = createBrowserRouter([
   {
@@ -21,6 +22,7 @@ const router = createBrowserRouter([
     children: [
       { path: "/", element: <Home /> },
       { path: "/shop", element: <Shop /> },
+      { path: "/cart", element: <Cart /> },
       { path: "/shop/:category/:Id", element: <Category /> },
       { path: "/shoplist/:category", element: <Shoplist /> },
       { path: "/ProductDetails/:id", element: <ProductDetails /> },
