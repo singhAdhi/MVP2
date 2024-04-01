@@ -1,20 +1,22 @@
 import React, { useState, useEffect } from "react";
 import HorizontalCardDetail from "../../components/global/swiper/horizontal-card-detail/HorizontalCardDetail";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import SwiperSlider from "../../components/global/swiper/SwiperSlider";
 import axios from "axios";
 import "./ProductDetails.css";
 import BtnPrimary from "../../components/global/buttons/btn-primary/BtnPrimary";
 import BtnSecondary from "../../components/global/buttons/btn-secondary/BtnSecondary";
-import { Link } from "react-router-dom";
 import SkeletonImg from "../../components/global/SkeletonImg/SkeletonImg";
 import SkeletonText from "../../components/global/SkeletonText/SkeletonText";
+
 const ProductDetails = () => {
   let [img, setImg] = useState([]);
   let [detail, setDetail] = useState(null);
   let [loading, setLoading] = useState(true);
-  let Params = useParams();
-  console.log(Params.id);
+  let [cartData, setCartData] = useState(null);
+  let [count, setCount] = useState(1);
+  const { id } = useParams();
+  let navigate = useNavigate();
   const options = {
     direction: "horizontal",
     loop: false,
@@ -54,9 +56,10 @@ const ProductDetails = () => {
       getProducts();
     }, 2000);
   }, []);
+
   const getProducts = async () => {
     try {
-      let ShopUrl = `/src/dummyApiData/shop/GetProductById${Params.id}_DATA.json`;
+      let ShopUrl = `/src/dummyApiData/shop/GetProductById${id}_DATA.json`;
       axios
         .get(ShopUrl)
         .then((data) => {
@@ -90,7 +93,93 @@ const ProductDetails = () => {
     //       .then((result) => console.log(result))
     //       .catch((error) => console.error(error));
   };
-  console.log(detail);
+  const searchCart = async () => {
+    // try {
+    //   let ShopUrl = `/src/dummyApiData/shop/SearchCart_DATA.json`;
+
+    //   const response = await axios.get(ShopUrl);
+    //   console.log(response?.data);
+    //   setCartData(response?.data);
+    // } catch (error) {
+    //   console.log(error);
+    // }
+
+    const raw = JSON.stringify({
+      StoreId: "MVPT2",
+      Name: "default",
+      CustomerId: "britestuser",
+      CustomerName: "Tester",
+      Type: null,
+      CurrencyCode: "MEG",
+      LanguageCode: "en-US",
+    });
+
+    const requestOptions = {
+      method: "POST",
+      headers: myHeaders,
+      body: raw,
+      redirect: "follow",
+    };
+
+    fetch("", requestOptions)
+      .then((response) => response.json())
+      .then((result) => console.log(result))
+      .catch((error) => console.error(error));
+  };
+  const AddOrUpdate = async () => {
+    try {
+      navigate("/cart");
+      setCount(count + 1);
+      // let addUpdateUrl = `/src/dummyApiData/shop/AddOrUpdateItenInCart.json`;
+      // const response = await axios.get(addUpdateUrl);
+      // console.log(response?.data);
+      const existingData = localStorage.getItem("cart");
+      const cartArray = JSON.parse(existingData);
+      const itemExists =
+        cartArray && cartArray.Items.some((item) => item.ProductId === id);
+
+      if (!itemExists) {
+        // If the item doesn't exist in the cart, add it
+        cartArray.Items.push({
+          ProductId: `${id}`,
+          Quantity: count,
+        });
+
+        // Convert the updated cart data back to JSON string
+        const updatedCart = JSON.stringify(cartArray);
+
+        // Update the cart data in localStorage
+        localStorage.setItem("cart", updatedCart);
+      }
+
+      console.log(val);
+      const raw = JSON.stringify({
+        CatalogId: "",
+        CartId: "",
+        Items: [
+          {
+            ProductId: `${id}`,
+            Quantity: count,
+          },
+        ],
+      });
+      localStorage.setItem("cart", raw);
+
+      const requestOptions = {
+        method: "POST",
+        headers: myHeaders,
+        body: raw,
+        redirect: "follow",
+      };
+
+      fetch("data", requestOptions)
+        .then((response) => response.json())
+        .then((result) => console.log(result))
+        .catch((error) => console.error(error));
+      await searchCart();
+    } catch (error) {}
+  };
+
   return (
     <div className="overflow-hidden col-12 my-4">
       <div
@@ -133,10 +222,8 @@ const ProductDetails = () => {
         )}
       </div>
 
-      <div className="mx-2 p-4 b-radius mb-5 mt-3 d-flex justify-content-around">
-        <Link to="/cart">
-          <BtnSecondary children={"ADD TO CART"} />
-        </Link>
+      <div className="mx-2 p-4 b-radius mt-3 d-flex justify-content-around">
+        <BtnSecondary children={"ADD TO CART"} onClick={AddOrUpdate} />
         <BtnPrimary children={"BUY NOW"} />
       </div>
     </div>
